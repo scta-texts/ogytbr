@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 12</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 12</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="57"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1fzr2"><!-- c12 -->
+        <head xml:id="ogytbr-a1fzr2-Hd1e109">Capítulo 12</head>
+        <head xml:id="ogytbr-a1fzr2-Hd1e111" type="question-title">De la provincia de Santa Marta</head>
+        <p xml:id="ogytbr-a1fzr2-d1e114">
+          <lb ed="#S" n="23"/>Dela prouincia de sancta Marta
+        </p>
+        <p xml:id="ogytbr-a1fzr2-d1e119">
+          <lb ed="#S" n="24"/>La prouincia de sancta Marta era tierra donde
+          <lb ed="#S" n="25"/>los yndios tenian muy mucho oro: porque la
+          <lb ed="#S" n="26"/>tierra es rica y las comarcas / y tenian yndus
+          <lb ed="#S" n="27"/>tria de cogello. Y por esta causa desde el año
+          <lb ed="#S" n="28"/>de mil y quatro cientos y nouenta y ocho hasta oy año
+          <lb ed="#S" n="29"/>de mil y quinientos y quarenta y dos: otra cosa no han he
+          <lb ed="#S" n="30"/>cho infinitos tyranos españoles: sino yr a ella con naui
+          <lb ed="#S" n="31"/>os y saltear y matar y robar aquellas gentes por roba
+          <lb ed="#S" n="32"/>lles el oro que tenian / y tornauanse enlos nauios que yuan
+          <lb ed="#S" n="33"/>en diuersas y muchas vezes / enlas quales hizieron gran
+          <pb ed="#S" n="58"/>
+          <lb ed="#S" n="1"/>des estragos y matanças y señaladas crueldades: y
+          es<lb ed="#S" n="2" break="no"/>to comunmente ala costa dela mar y algunas leguas la
+          <lb ed="#S" n="3"/>tierra dentro hasta el año de mil y quinientos y veynte y tres
+          <lb ed="#S" n="4"/>El año de mil y quinientos y veynte y tres fueron tira
+          <lb ed="#S" n="5"/>nos españoles a estar de assiento alla. Y porque la tierra
+          <lb ed="#S" n="6"/>como dicho es era rica: suscedieron diuersos capitanes
+          <lb ed="#S" n="7"/>vnos mas crueles que otros: que cada vno parecia que
+          <lb ed="#S" n="8"/>tenia hecha profession de hazer mas exorbitantes cru
+          <lb ed="#S" n="9"/>eldades y maldades que el otro: porque saliesse verdad
+          <lb ed="#S" n="10"/>la regla que arriba posimos. El año de mil y quinientos
+          <lb ed="#S" n="11"/>y veynte y nueue: fue vn gran tirano muy de proposito
+          <lb ed="#S" n="12"/>y con mucha gente: sin temor alguno de dios ni compas
+          <lb ed="#S" n="13"/>sion de humano linage: el qual hizo conella tan
+          gran<lb ed="#S" n="14" break="no"/>des estragos / matanças / y impiedades: que a todos los
+          <lb ed="#S" n="15"/>passados excedio: robo el y ellos muchos thesoros en
+          <lb ed="#S" n="16"/>obra de seys / o siete años que biuio. Despues de muer
+          <lb ed="#S" n="17"/>to sin confession y aun huyendo dela residencia que
+          te<lb ed="#S" n="18" break="no"/>mia: suscedieron otros tiranos matadores y robadores
+          <lb ed="#S" n="19"/>que fueron a consumir las gentes que delas manos y
+          <lb ed="#S" n="20"/>cruel cuchillo delos passados restauan. Estendieron se
+          <lb ed="#S" n="21"/>tanto por la tierra dentro vastando y assolando
+          gran<lb ed="#S" n="22" break="no"/>des y muchas prouincias: matando y captiuando las
+          <lb ed="#S" n="23"/>gentes dellas: por las maneras suso dichas delas otras:
+          <lb ed="#S" n="24"/>dando grandes tormentos a señores y a vassallos: porque
+          <lb ed="#S" n="25"/>descubriessen el oro y los pueblos que lo tenian: excedi
+          <lb ed="#S" n="26"/>endo como es dicho enlas obras y numero y calidad a
+          <lb ed="#S" n="27"/>todos los passados: tanto que desde el año dicho de mil
+          <lb ed="#S" n="28"/>y quinientos y veynte y nueue hasta oy han
+          despobla<lb ed="#S" n="29" break="no"/>do por aquella parte mas de quatro cientas leguas de
+          <lb ed="#S" n="30"/>tierra: que estaua assi poblada como las otras.
+        </p>
+        <p xml:id="ogytbr-a1fzr2-d1e210">
+          <lb ed="#S" n="31"/>¶ Uerdaderamente affirmo que si en particular ouie
+          <lb ed="#S" n="32"/>ra de referir las maldades / matanças / despoblaciones/
+          <pb ed="#S" n="59"/>
+          <lb ed="#S" n="1"/>injusticias / violencias / estragos y grandes peccados
+          <lb ed="#S" n="2"/>que los españoles enestos reynos de sancta Marta han
+          <lb ed="#S" n="3"/>hecho y cometido contra dios y contra el Rey y aque
+          <lb ed="#S" n="4"/>llas innocentes naciones: yo haria vna muy larga hys
+          <lb ed="#S" n="5"/>toria / pero esto quedarse ha para su tiempo si dios
+          die<lb ed="#S" n="6" break="no"/>re la vida. Solo quiero aqui dezir vnas pocas de pala
+          <lb ed="#S" n="7"/>bras delas que escriue agora al rey nuestro señor el obis
+          <lb ed="#S" n="8"/>po de aquella prouincia y es la hecha dela carta a veyn
+          <lb ed="#S" n="9"/>te de mayo del ano de mil y quinientos y quarenta y vno
+          <lb ed="#S" n="10"/>el qual entre otras palabras dize assi. Digo sagrado
+          <lb ed="#S" n="11"/>Cesar que el medio para remediar esta tierra es: que vu
+          <lb ed="#S" n="12"/>estra Magestad la saque ya de poder de padrastros y
+          <lb ed="#S" n="13"/>le de marido que la tracte como es razon y ella merece: y
+          <lb ed="#S" n="14"/>este con toda breuedad: porque de otra manera segun la
+          <lb ed="#S" n="15"/>aquexan y fatigan estos tiranos que tienen encargami
+          <lb ed="#S" n="16"/>ento della: tengo por cierto que muy ayna dexara de ser
+          <lb ed="#S" n="17"/>etce. Y mas abaxo dize: donde conoscera vuestra
+          Ma<lb ed="#S" n="18" break="no"/>gestad: claramente: como los que gouiernan por estas
+          <lb ed="#S" n="19"/>partes merescen ser desgouernados / para que las repu
+          <lb ed="#S" n="20"/>blicas se aliuiassen. Y si esto no se haze a mi ver no tienen
+          <lb ed="#S" n="21"/>cura sus enfermedades. Y conoscera tambien como en
+          <lb ed="#S" n="22"/>estas partes no ay christianos: sino demonios: ni ay serui
+          <lb ed="#S" n="23"/>dores de dios ni de rey: sino traydores a su ley y asu rey.
+          <lb ed="#S" n="24"/>Porque en verdad quel mayor inconuiente que yo
+          ha<lb ed="#S" n="25" break="no"/>llo para traerlos yndios de guerra y hazellos de paz / y
+          <lb ed="#S" n="26"/>alos de paz al conoscimiento de nuestra fee: es el aspero
+          <lb ed="#S" n="27"/>y cruel tractamiento que los de paz resciben delos chris
+          <lb ed="#S" n="28"/>tianos. Por lo qual estan tan escabrosos y tan abispados:
+          <lb ed="#S" n="29"/>que ninguna cosa les puede ser mas odiosa ni aborreci
+          <lb ed="#S" n="30"/>ble que el nombre de christianos. Alos quales ellos en toda esta
+          <lb ed="#S" n="31"/>tierra llaman en su lengua yares que quiere dezir demonios:
+          <lb ed="#S" n="32"/>y sin duda ellos tienen razon. Porque las obras que aca
+          <lb ed="#S" n="33"/>obran / ni son den christianos ni de hombres que tiene
+          <pb ed="#S" n="60"/>
+          <lb ed="#S" n="1"/>vso de razon: sino de demonios: de donde nace que
+          co<lb ed="#S" n="2" break="no"/>mo los yndios veen este obrar mal y tan sin piedad
+          ge<lb ed="#S" n="3" break="no"/>neralmente: assi enlas cabeças como enlos miembros:
+          <lb ed="#S" n="4"/>piensan que los christianos lo tienen por ley y es autor
+          <lb ed="#S" n="5"/>dello su dios y su rey. Y trabajar de persuadirles otra
+          <lb ed="#S" n="6"/>cosa: es querer agotar la mar y dar les materia de reyr
+          <lb ed="#S" n="7"/>y hazer burla y escarnio de Jesu Christo y su ley. Y
+          co<lb ed="#S" n="8" break="no"/>mo los yndios de guerra vean este tratamiento que se
+          <lb ed="#S" n="9"/>haze alos de paz: tienen por mejor morir de vna vez que
+          <lb ed="#S" n="10"/>no de muchas en poder de españoles. Selo esto inuictis
+          <lb ed="#S" n="11"/>simo Cesar por experiencia etce. Dize mas abaxo en
+          <lb ed="#S" n="12"/>vn capitulo vuestra Magestad tiene mas seruidores
+          <lb ed="#S" n="13"/>por aca delos que piensa. Porque no ay soldado de quan
+          <lb ed="#S" n="14"/>tos aca estan: que no ose dezir publicamente que si
+          sal<lb ed="#S" n="15" break="no"/>tea / o roba / o destruye / o mata / o quema los vassallos de vu
+          <lb ed="#S" n="16"/>estra magestad porque le den oro: sirue a vuestra
+          Ma<lb ed="#S" n="17" break="no"/>gestad a titulo que diz que de alli le viene su parte a vu
+          <lb ed="#S" n="18"/>estra Magestad. Y por tanto seria bien christianissimo
+          <lb ed="#S" n="19"/>Cesar: que vuestra Magestad diesse a entender
+          casti<lb ed="#S" n="20" break="no"/>gando algunos rigurosamente: que no rescibe seruicio
+          <lb ed="#S" n="21"/>en cosa que dios es deseruido. Todas las suso dichas
+          <lb ed="#S" n="22"/>son formales palabras del dicho obispo de sancta Mar
+          <lb ed="#S" n="23"/>ta. Por las quales se vera claramente lo que oy se haze
+          <lb ed="#S" n="24"/>en todas aquellas desdichadas tierras y contra aque
+          <lb ed="#S" n="25"/>llas innocentes gentes. Llama yndios de guerra los
+          <lb ed="#S" n="26"/>que estan y se han podido saluar huyendo delas matan
+          <lb ed="#S" n="27"/>ças delos infelices españoles por los montes. Y los de
+          <lb ed="#S" n="28"/>paz llama los que despues de muertas infinitas gentes
+          <lb ed="#S" n="29"/>ponen enla tyranica y horrible seruidumbre arriba di
+          <lb ed="#S" n="30"/>cha: donde al cabo los acaban de assolar y matar: como
+          <lb ed="#S" n="31"/>parece por las dichas palabras del obispo: y en verdad
+          <lb ed="#S" n="32"/>que explica harto poco lo que aquellos padecen.
+        </p>
+        <p xml:id="ogytbr-a1fzr2-d1e363">
+          <lb ed="#S" n="33"/>¶ Suelen dezir los yndios en aquella tierra quando
+          <lb ed="#S" n="34"/>los fatigan lleuandolos con cargas por las sierras si caen
+          <pb ed="#S" n="61"/>
+          <lb ed="#S" n="1"/>y desmayan de flaqueza y trabajo: porque alli les dan de
+          <lb ed="#S" n="2"/>coces y palos y les quiebran los dientes con los pomos
+          <lb ed="#S" n="3"/>delas espadas: porque se leuanten y anden sin resollar:
+          <lb ed="#S" n="4"/>anda que soys malos: no puedo mas: matame aqui que
+          <lb ed="#S" n="5"/>aqui quiero quedar muerto. Y esto dizen lo con
+          gran<lb ed="#S" n="6" break="no"/>des sospiros y apretamiento del pecho: mostrando gran
+          <lb ed="#S" n="7"/>de angustia y dolor. O quien pudiesse dar a entender de
+          <lb ed="#S" n="8"/>cient partes vna: delas affliciones y calamidades que
+          <lb ed="#S" n="9"/>aquellas innocentes gentes por los infelices españoles
+          <lb ed="#S" n="10"/>padecen. Dios sea aquel que lo de a entender alos que
+          <lb ed="#S" n="11"/>lo pueden y deuen remediar.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

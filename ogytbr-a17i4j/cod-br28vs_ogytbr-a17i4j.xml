@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preámbulo</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Preámbulo</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="7"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a17i4j"><!-- prae -->
+        <head xml:id="ogytbr-a17i4j-Hd1e109">Preámbulo</head>
+        <p xml:id="ogytbr-a17i4j-d1e111">
+          <pb ed="#S" n="7"/>
+          <lb ed="#S" n="1"/>¶ Breuissima relacion dela des
+          <lb ed="#S" n="2"/>truycion delas Yndias.
+        </p>
+        <p xml:id="ogytbr-a17i4j-d1e120">
+          <lb ed="#S" n="3"/>Descubrieron se las Yn
+          <lb ed="#S" n="4"/>dias enel año de mil y quatro cientos
+          <lb ed="#S" n="5"/>y nouenta y dos: fueron se a poblar
+          <lb ed="#S" n="6"/>el año siguiente de christianos
+          espa<lb ed="#S" n="7" break="no"/>ñoles / por manera que ha quarenta
+          <lb ed="#S" n="8"/>y nueue años que fueron a ellas
+          can<lb ed="#S" n="9" break="no"/>tidad de españoles: y la primera tierra donde entraron
+          <lb ed="#S" n="10"/>para hecho de poblar: fue la grande y felicissima ysla es
+          <lb ed="#S" n="11"/>pañola que tiene seyscientas leguas en torno. Ay otras
+          <lb ed="#S" n="12"/>muy grandes y infinitas yslas al rededor por todas las
+          <lb ed="#S" n="13"/>partes della: que todas estauan y las vimos las mas po
+          <lb ed="#S" n="14"/>bladas y llenas de naturales gentes Yndios dellas que
+          <lb ed="#S" n="15"/>puede ser tierra poblada enel mundo. La tierra firme
+          <lb ed="#S" n="16"/>que esta de esta ysla por lo mas cercano dozientas y cin
+          <lb ed="#S" n="17"/>cuenta leguas pocas mas / tiene de costa de mar mas de
+          <lb ed="#S" n="18"/>diez mil leguas descubiertas y cada dia se descubren mas:
+          <lb ed="#S" n="19"/>todas llenas como vna colmena de gentes / enlo que
+          has<lb ed="#S" n="20" break="no"/>ta el año de quarenta y vno se ha descubierto: que pare
+          <lb ed="#S" n="21"/>ce que puso dios en aquellas tierras todo el golpe / o la
+          <lb ed="#S" n="22"/>mayor cantidad de todo el linage humano.
+        </p>
+        <p xml:id="ogytbr-a17i4j-d1e166">
+          <lb ed="#S" n="23"/>¶ Todas estas vniuersas y infinitas gentes a toto ge
+          <lb ed="#S" n="24"/>nero crio dios los mas simples sin maldades ni
+          doble<lb ed="#S" n="25" break="no"/>zes: obedientissimas: fidelissimas a sus señores natura
+          <lb ed="#S" n="26"/>les: y alos christianos a quien siruen: mas humildes/
+          <lb ed="#S" n="27"/>mas pacientes / mas pacificas y quietas: sin renzilias
+          <pb ed="#S" n="8"/>
+          <lb ed="#S" n="1"/>ni bollicios no rixosos / no querulosos / sin rancores / sin
+          <lb ed="#S" n="2"/>odios / sin dessear venganças que ay enel mundo. Son
+          <lb ed="#S" n="3"/>assi mesmo las gentes mas delicadas flacas y tiernas
+          <lb ed="#S" n="4"/>en complission y que menos pueden sufrir trabajos y que
+          <lb ed="#S" n="5"/>mas facilmente mueren de qualquiera enfermedad: que ni
+          <lb ed="#S" n="6"/>hijos de principes y señores entre nosotros criados en
+          <lb ed="#S" n="7"/>regalos y delicada vida / no son mas delicados que ellos
+          <lb ed="#S" n="8"/>aunque sean delos que entre ellos son de linage de
+          labra<lb ed="#S" n="9" break="no"/>dores. Son tambien gentes pauperrimas y que menos
+          <lb ed="#S" n="10"/>posseen ni quieren posseer de bienes temporales: y por
+          <lb ed="#S" n="11"/>esto no soberuias / no ambiciosas / no cubdiciosas. Su
+          <lb ed="#S" n="12"/>comida es tal que la delos sanctos padres eñl desierto no
+          <lb ed="#S" n="13"/>parece auer sido mas estrecha ni menos deleytosa ni po
+          <lb ed="#S" n="14"/>bre. Sus vestidos comunmente son encueros cubiertas
+          <lb ed="#S" n="15"/>sus verguenças y quando mucho cubrense con vna man
+          <lb ed="#S" n="16"/>ta de algodon: que sera como vara y media / o dos varas
+          <lb ed="#S" n="17"/>de lienço en quadra. Sus camas son encima de vna es
+          <lb ed="#S" n="18"/>tera y quando mucho / duermen en vnas como redes col
+          <lb ed="#S" n="19"/>gadas que en lengua dela ysla española llamauan hamacas
+          <lb ed="#S" n="20"/>Son esso mesmo de limpios y desocupados y biuos en
+          <lb ed="#S" n="21"/>tendimientos: muy capazes y dociles para toda buena
+          <lb ed="#S" n="22"/>docrina: aptissimos para recebir nuestra sancta fee catholi
+          <lb ed="#S" n="23"/>ca / y ser dotados de virtuosas costumbres: y las que menos
+          <lb ed="#S" n="24"/>impedimientos tienen par a esto que dios crio enel mundo.
+          <lb ed="#S" n="25"/>Y son tan importunas desque vna vez comiençan a tener
+          <lb ed="#S" n="26"/>noticia delas cosas dela fee / para saberlas y en
+          exerci<lb ed="#S" n="27" break="no"/>tar los sacramentos dela Yglesia y el culto diuino: que digo
+          <lb ed="#S" n="28"/>verdad que han menester los religiosos para sufrillos ser dota
+          <lb ed="#S" n="29"/>dos por dios de don muy señalado de paciencia: y finalmen
+          <lb ed="#S" n="30"/>te yo he oydo dezir a muchos seglares españoles de mu
+          <lb ed="#S" n="31"/>chos años aca y mnchas vezes: no pudiendo negar la
+          <lb ed="#S" n="32"/>bondad que enellos veen: cierto estas gentes eran las mas
+          <lb ed="#S" n="33"/>bienauenturadas del mundo / si solamente
+          conoscie<lb ed="#S" n="34" break="no"/>ran a Dios.
+        </p>
+        <p xml:id="ogytbr-a17i4j-d1e255">
+          <pb ed="#S" n="9"/>
+          <lb ed="#S" n="1"/>¶ Enestas ouejas mansas y delas calidades suso dichas
+          <lb ed="#S" n="2"/>por su hazedor y criador assi dotadas: entraron los es
+          <lb ed="#S" n="3"/>pañoles desde luego que las conocieron como lobos y ti
+          <lb ed="#S" n="4"/>gres y leones crudelissimos de muchos dias hambrien
+          <lb ed="#S" n="5"/>tos. Y otra cosa no han hecho de quarenta años a esta
+          <lb ed="#S" n="6"/>parte hasta oy y oy eneste dia lo hazen: sino
+          despedaça<lb ed="#S" n="7" break="no"/>llas / matallas / angustiallas / afligillas / atormentallas
+          <lb ed="#S" n="8"/>y destruyllas por las estrañas y nueuas y varias y nun
+          <lb ed="#S" n="9"/>ca otras tales vistas ni leydas ni oydas maneras de cru
+          <lb ed="#S" n="10"/>eldad: delas quales algunas pocas abaxo se diran en tan
+          <lb ed="#S" n="11"/>to grado: que auiendo enla ysla española sobre tres cuen
+          <lb ed="#S" n="12"/>tos de animas que vimos: no ay oy delos naturales della
+          <lb ed="#S" n="13"/>dozientas personas. La ysla de Cuba es quasi tan luenga co
+          <lb ed="#S" n="14"/>mo desde Ualladolid a Roma: esta oy quasi toda  despo
+          <lb ed="#S" n="15"/>blada. La Ysla de sant juan y la de Jamayca yslas muy
+          <lb ed="#S" n="16"/>grandes y muy felices y graciosas: ambas estan assola
+          <lb ed="#S" n="17"/>das. Las Yslas delos Lucayos que estan comarcanas ala
+          <lb ed="#S" n="18"/>española y a cuba por la parte del norte / que son mas de
+          <lb ed="#S" n="19"/>sessenta con las que llamauan de Gigantes y otras Yslas
+          <lb ed="#S" n="20"/>grandes y chicas y que la peor dellas es mas fertil y gra
+          <lb ed="#S" n="21"/>ciosa que la huerta  del Rey de seuilla: y la mas sana tierra
+          <lb ed="#S" n="22"/>del mundo: enlas quales auia mas de quinientas mil
+          <lb ed="#S" n="23"/>animas: no ay oy vna sola criatura. Todas las mataron
+          <lb ed="#S" n="24"/>trayendolas y por traellas ala Ysla española: despues que
+          <lb ed="#S" n="25"/>vian que se les acabauan los naturales della. Andando vn
+          <lb ed="#S" n="26"/>nauio tres años a rebuscar por ellas la gente que auia:
+          <lb ed="#S" n="27"/>despues de auer sido vendimiadas: porque vn buen christia
+          <lb ed="#S" n="28"/>no se mouio por piedad para los que se hallassen conuer
+          <lb ed="#S" n="29"/>tillos y ganallos a christo: no se hallaron sino onze
+          perso<lb ed="#S" n="30" break="no"/>nas / las quales yo vide. O tras mas de treynta Yslas que
+          <lb ed="#S" n="31"/>estan en comarca dela ysla de sant Juan por la mesma cau
+          <lb ed="#S" n="32"/>sa estan despobladas y perdidas. Seran todas estas Ys
+          <lb ed="#S" n="33"/>las de tierra mas de dos mil leguas / que todas estan
+          <lb ed="#S" n="34"/>despobladas y desiertas de gente.
+        </p>
+        <p xml:id="ogytbr-a17i4j-d1e334">
+          <pb ed="#S" n="10"/>
+          <lb ed="#S" n="1"/>¶ De la gran tierra firme somos ciertos que nuestros
+          <lb ed="#S" n="2"/>espanoles por sus crueldades y nefandas obras: an des
+          <lb ed="#S" n="3"/>poblado y assolado y que estan oy desiertas estando lle
+          <lb ed="#S" n="4"/>nas de hombres racionales mas de diez reynos mayo
+          <lb ed="#S" n="5"/>res que toda españa: aun que entre Aragon y
+          Portu<lb ed="#S" n="6" break="no"/>gal en ellos / y mas tierra que ay de Seuilla a Jherusa
+          <lb ed="#S" n="7"/>lem dos vezes: que son mas de dos mil leguas.
+        </p>
+        <p xml:id="ogytbr-a17i4j-d1e354">
+          <lb ed="#S" n="8"/>¶ Daremos por cuenta muy cierta y verdadera que son
+          <lb ed="#S" n="9"/>muertas en los dichos quaren ta años por las dichas ti
+          <lb ed="#S" n="10"/>ranias y ynfernales obras de los christianos ynjusta y
+          <lb ed="#S" n="11"/>tiranicamente: mas de doze cuentos de animas hombres
+          <lb ed="#S" n="12"/>y mugeres y niños y en verdad que creo sin pensar en
+          <lb ed="#S" n="13"/>gañarme que son mas de quinze cuentos.
+        </p>
+        <p xml:id="ogytbr-a17i4j-d1e370">
+          <lb ed="#S" n="14"/>¶ Dos maneras generales y principales an tenido los
+          <lb ed="#S" n="15"/>que alla an passado que se llaman christianos: en estirpar
+          <lb ed="#S" n="16"/>y raer de la haz de la tierra a aquellas miserandas
+          na<lb ed="#S" n="17" break="no"/>ciones. La vna por injustas / crueles / sangrientas y
+          ti<lb ed="#S" n="18" break="no"/>ranicas guerras. La otra despues que an muerto todos
+          <lb ed="#S" n="19"/>los que podrian anhelar / o sospirar / o pensar en libertad / o
+          <lb ed="#S" n="20"/>en salir de los tormentos que padecen: como son todos
+          <lb ed="#S" n="21"/>los señores naturales y los hombres varones (porque
+          <lb ed="#S" n="22"/>comunmente no dexan en las guerras a vida sino los
+          <lb ed="#S" n="23"/>moços y mugeres) oprimiendolos con la mas dura/
+          <lb ed="#S" n="24"/>horrible y aspera seruidumbre en que jamas hombres
+          <lb ed="#S" n="25"/>ni bestias pudieron ser puestas. A estas dos maneras de
+          <lb ed="#S" n="26"/>tyrania infernal se reduzen y se resueluen / o
+          subalter<lb ed="#S" n="27" break="no"/>nan como a generos todas las otras diuersas y varias
+          <lb ed="#S" n="28"/>de assolar aquellas gentes que son infinitas.
+        </p>
+        <p xml:id="ogytbr-a17i4j-d1e405">
+          <lb ed="#S" n="29"/>¶ La causa porque han muerto y destruydo tantas y ta
+          <lb ed="#S" n="30"/>les y tan infinito numero de animas los christianos: ha
+          <lb ed="#S" n="31"/>sido solamente por tener por su fin vltimo el oro y
+          hen<lb ed="#S" n="32" break="no"/>chirse de riquezas en muy breues dias / y subir a
+          esta<lb ed="#S" n="33" break="no"/>dos muy altos y sin proporcion de sus personas (conuie
+          <lb ed="#S" n="34"/>ne a saber) por la ynsaciable cudicia y ambicion que
+          <pb ed="#S" n="11"/>
+          <lb ed="#S" n="1"/>han tenido: que ha sido mayor que enel mundo ser
+          pu<lb ed="#S" n="2" break="no"/>do: por ser aquellas tierras tan felices y tan ricas: y las
+          <lb ed="#S" n="3"/>gentes tan humildes / tan pacientes y tan faciles a sub
+          <lb ed="#S" n="4"/>jectarlas: alas quales no han tenido mas respecto ni dellas
+          <lb ed="#S" n="5"/>han hecho mas cuenta ni estima (hablo con verdad por
+          <lb ed="#S" n="6"/>lo que se y he visto todo el dicho tiempo) no digo que
+          <lb ed="#S" n="7"/>de bestias (porque pluguiera a dios que como a bestias
+          <lb ed="#S" n="8"/>las ouieran tractado y estimado) pero como y menos
+          <lb ed="#S" n="9"/>que estiercol delas plaças. Y assi han curado de sus
+          vi<lb ed="#S" n="10" break="no"/>das y de sus animas: y poresto todos los numeros y cu
+          <lb ed="#S" n="11"/>entos dichos han muerto sin fee y sin sacramentos. Y es
+          <lb ed="#S" n="12"/>ta es vna muy notoria y aueriguada verdad: que todos
+          <lb ed="#S" n="13"/>aunque sean los tiranos y matadores la saben y la con
+          <lb ed="#S" n="14"/>fiessan: que nunca los yndios de todas las yndias hizie
+          <lb ed="#S" n="15"/>ron mal alguno a christianos: antes los tuuieron por ve
+          <lb ed="#S" n="16"/>nidos del cielo: hasta que primero muchas vezes ouie
+          <lb ed="#S" n="17"/>ron recebido ellos / o sus vezinos muchos males / robos
+          <lb ed="#S" n="18"/>muertes / violencias y vexaciones dellos mesmos.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 13</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 13</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="61"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1g8oh"><!-- c13 -->
+        <head xml:id="ogytbr-a1g8oh-Hd1e109">Capítulo 13</head>
+        <head xml:id="ogytbr-a1g8oh-Hd1e111" type="question-title">De la provincia de Cartagena</head>
+        <p xml:id="ogytbr-a1g8oh-d1e114">
+          <lb ed="#S" n="12"/>¶ Dela prouincia de
+          Car<lb ed="#S" n="13" break="no"/>tagena.
+        </p>
+        <p xml:id="ogytbr-a1g8oh-d1e121">
+          <lb ed="#S" n="14"/>Esta prouincia de Cartagena esta mas aba
+          <lb ed="#S" n="15"/>xo cincuenta leguas dela de sancta Marta
+          <lb ed="#S" n="16"/>hazia el poniente y junto conella la del Cenu
+          <lb ed="#S" n="17"/>hasta el Golfo de Uraba: que ternan sus cient
+          <lb ed="#S" n="18"/>leguas de costa de mar y mucha tierra la tierra dentro
+          <lb ed="#S" n="19"/>hazia el medio dia. Estas prouincias han sido tractadas
+          <lb ed="#S" n="20"/>angustiadas / muertas / despobladas y assoladas: desde
+          <lb ed="#S" n="21"/>el año de mil y quatrocientos y nouenta y ocho / o nue
+          <lb ed="#S" n="22"/>ue hasta oy: como las de sancta Marta / y hechas
+          ene<lb ed="#S" n="23" break="no"/>llas muy señaladas crueldades y muertes y robos por
+          <lb ed="#S" n="24"/>los españoles: que por acabar presto esta breue sumano
+          <lb ed="#S" n="25"/>quiero dezir en particular / y por referir las maldades
+          <lb ed="#S" n="26"/>que en otras agora se hazen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

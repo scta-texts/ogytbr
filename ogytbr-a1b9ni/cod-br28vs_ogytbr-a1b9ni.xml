@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 3</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 3</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="20"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1b9ni"><!-- c3 -->
+        <head xml:id="ogytbr-a1b9ni-Hd1e109">Capítulo 3</head>
+        <head xml:id="ogytbr-a1b9ni-Hd1e111" type="question-title">De las dos islas de San Juan y Jamaica</head>
+        <p xml:id="ogytbr-a1b9ni-d1e114">
+          <lb ed="#S" n="17"/>¶ De las dos yslas de sant Jua
+          <lb ed="#S" n="18"/>an y Jamayca.
+        </p>
+        <p xml:id="ogytbr-a1b9ni-d1e121">
+          <lb ed="#S" n="19"/>Passaron ala ysla de sant Juan y ala de
+          Ja<lb ed="#S" n="20" break="no"/>mayca (que eran vnas huertas y vnas colme
+          <lb ed="#S" n="21"/>nas) el año de mil y quinientos y nueue los
+          <lb ed="#S" n="22"/>españoles: conel fin y proposito que fueron
+          <lb ed="#S" n="23"/>ala española. Los quales hizieron y come
+          <lb ed="#S" n="24"/>tieron: los grandes ynsultos y peccados suso dichos: y
+          <lb ed="#S" n="25"/>añidieron muchas señaladas y grandissimas
+          cruelda<lb ed="#S" n="26" break="no"/>des mas: matando y quemando y assando y echando a
+          <lb ed="#S" n="27"/>perros brauos: y despues opprimiendo y
+          atormentan<lb ed="#S" n="28" break="no"/>do y vexando enlas minas y enlos otros trabajos / has
+          <lb ed="#S" n="29"/>ta consumir y acabar todos aquellos infelices ynnocen
+          <lb ed="#S" n="30"/>tes: que auia enlas dichas dos yslas mas de seyscientas
+          <lb ed="#S" n="31"/>mil animas / y creo que mas de vn cuento: y no ay oy en
+          <lb ed="#S" n="32"/>cada vna dozientas personas / todas perecidas sin fee
+          <lb ed="#S" n="33"/>y sin sacramentos.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

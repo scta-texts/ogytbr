@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 7</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 7</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="31"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1ckue"><!-- c7 -->
+        <head xml:id="ogytbr-a1ckue-Hd1e109">Capítulo 7</head>
+        <head xml:id="ogytbr-a1ckue-Hd1e111" type="question-title">De la Nueva España</head>
+        <p xml:id="ogytbr-a1ckue-d1e114">
+          <lb ed="#S" n="29"/>Dela nueua España.
+        </p>
+        <p xml:id="ogytbr-a1ckue-d1e119">
+          <lb ed="#S" n="30"/>En el año de mil y quinientos y diez y siete se descubrio
+          <lb ed="#S" n="31"/>la nueua españa y eñl descubrimiento se hizieron gran
+          <lb ed="#S" n="32"/>des escandalos enlos yndios y algunas muertes por los que des
+          <lb ed="#S" n="33"/>cubrieron. Eñl año de mil y quinientos y diez y ocho la fueron
+          <lb ed="#S" n="34"/>a robar y a matar los que se llaman christianos aunque ellos dizen
+          <lb ed="#S" n="35"/>que van apoblar. Y desde este año de diez y ocho hasta el dia
+          <pb ed="#S" n="32"/>
+          <lb ed="#S" n="1"/>de oy que estamos enel año de mil y quinientos y qua
+          <lb ed="#S" n="2"/>renta y dos ha rebossado y llegado asu colmo toda la
+          <lb ed="#S" n="3"/>iniquidad: toda la injusticia: toda la violencia y tira
+          <lb ed="#S" n="4"/>nia que los christianos han hecho enlas Yndias: porque
+          <lb ed="#S" n="5"/>del todo han perdido todo temor a dios y al Rey y se
+          <lb ed="#S" n="6"/>han oluidado de si mesmos. Porque son tantos y tales
+          <lb ed="#S" n="7"/>los estragos y crueldades / matanças y destruyciones/
+          <lb ed="#S" n="8"/>despoblaciones / robos / violencias y tiranias y en tan
+          <lb ed="#S" n="9"/>tos y tales reynos dela gran tierra firme: que todas las
+          <lb ed="#S" n="10"/>cosas que hemos dicho son nada en comparacion
+          <lb ed="#S" n="11"/>delas queue se hizieron: pero aunque las dixeramos
+          to<lb ed="#S" n="12" break="no"/>das que son infinitas las que dexamos de dezir: no son
+          <lb ed="#S" n="13"/>comparables ni en numero ni en grauedad alas que des
+          <lb ed="#S" n="14"/>de el dicho año de mil y quinientos y diez y ocho se han
+          <lb ed="#S" n="15"/>hecho y perpetrado hasta este dia y año de mil y quini
+          <lb ed="#S" n="16"/>entos y quarenta y dos / y oy eneste dia del mes de seti
+          <lb ed="#S" n="17"/>embre se hazen y cometen / las mas graues
+          yapomina<lb ed="#S" n="18" break="no"/>bles. Porque sea verdad la regla que arriba pusimos
+          <lb ed="#S" n="19"/>que siempre desde el principio han ydo cresciendo en ma
+          <lb ed="#S" n="20"/>yores desafueros y obras infernales.
+        </p>
+        <p xml:id="ogytbr-a1ckue-d1e180">
+          <lb ed="#S" n="21"/>¶ Assi que desde la entrada dela nueua españa que fue
+          <lb ed="#S" n="22"/>a diez y ocho de abril del dicho año de diez y ocho
+          has<lb ed="#S" n="23" break="no"/>ta el año de treynta que fueron doze años enteros:
+          du<lb ed="#S" n="24" break="no"/>raron las matanças y estragos que las sangrientas y
+          <lb ed="#S" n="25"/>crueles manos y espadas delos españoles hizieron
+          con<lb ed="#S" n="26" break="no"/>tinuamente en quatro cientas y cincuenta leguas en tor
+          <lb ed="#S" n="27"/>no quasi dela ciudad de Mexico y a su rededor / donde
+          <lb ed="#S" n="28"/>cabran quatro y cinco grandes Reynos tan grandes
+          <lb ed="#S" n="29"/>y harto mas felices que españa. Estas tierras todas eran
+          <lb ed="#S" n="30"/>las mas pobladas y llenas de gentes que Toledo y Se
+          <lb ed="#S" n="31"/>uilla y Ualladolid y çaragoça juntamente con
+          Barce<lb ed="#S" n="32" break="no"/>lona: porque no ay ni vuo jamas tanta poblacion enes
+          <lb ed="#S" n="33"/>tas ciudades quando mas pobladas estuuieron: que
+          <lb ed="#S" n="34"/>dios puso y que auia en todas las dichas leguas que
+          <pb ed="#S" n="33"/>
+          <lb ed="#S" n="1"/>para andallas en torno se han de andar mas de mil y ocho
+          <lb ed="#S" n="2"/>cientas leguas. Mas han muerto los españoles
+          den<lb ed="#S" n="3" break="no"/>tro delos doze años dichos enlas dichas quatrocientas
+          <lb ed="#S" n="4"/>y cincuenta leguas a cuchillo y a lançadas y
+          queman<lb ed="#S" n="5" break="no"/>dolos biuos / mugeres y niños y moços y viejos: de qua
+          <lb ed="#S" n="6"/>tro cuentos de animas: mientra que duraron (como di
+          <lb ed="#S" n="7"/>cho es) lo que ellos llaman conquistas: siendo ynuasio
+          <lb ed="#S" n="8"/>nes violentas de crueles tiranos: condenadas no solo
+          <lb ed="#S" n="9"/>por la ley de dios / pero por todas las leyes humanas
+          <lb ed="#S" n="10"/>como lo son y muy peores que las que haze el turco pa
+          <lb ed="#S" n="11"/>ra destruyr la yglesia christiana. Y esto sin los que han
+          <lb ed="#S" n="12"/>muerto y matan cada dia enla suso dicha tiranica
+          ser<lb ed="#S" n="13" break="no"/>uidumbre: vexaciones y oppressiones cotidianas.
+        </p>
+        <p xml:id="ogytbr-a1ckue-d1e244">
+          <lb ed="#S" n="14"/>¶ Particularmente no podra bastar lengua ni
+          noti<lb ed="#S" n="15" break="no"/>cia y industria humana / a referir los hechos
+          espanta<lb ed="#S" n="16" break="no"/>bles que en distintas partes y juntos en vn tiempo en
+          <lb ed="#S" n="17"/>vnas: y varios en varias: por aqnellos hostes publicos
+          <lb ed="#S" n="18"/>y capitales enemigos del linaje humano se an hecho: den
+          <lb ed="#S" n="19"/>tro de aquel dicho circuyto y aun algunos hechos segun
+          <lb ed="#S" n="20"/>las circunstancias y calidades que los agrauian: en ver
+          <lb ed="#S" n="21"/>dad que cumplidamente a penas con mucha diligeneia/
+          <lb ed="#S" n="22"/>y tiempo y escriptura no se pueda explicar. Pero algu
+          <lb ed="#S" n="23"/>na cosa de algunas partes dire con protestacion y jura
+          <lb ed="#S" n="24"/>mento: de que no pienso que explicare vna de mil partes.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

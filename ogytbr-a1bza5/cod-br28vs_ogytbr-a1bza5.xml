@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 5</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 5</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="23"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1bza5"><!-- c5 -->
+        <head xml:id="ogytbr-a1bza5-Hd1e109">Capítulo 5</head>
+        <head xml:id="ogytbr-a1bza5-Hd1e111" type="question-title">De la Tierra Firme</head>
+        <p xml:id="ogytbr-a1bza5-d1e114">
+          <lb ed="#S" n="30"/>Dela tierra Firme
+        </p>
+        <p xml:id="ogytbr-a1bza5-d1e119">
+          <lb ed="#S" n="31"/>El año de mil y quinientos y catorze: passo ala tierra
+          <lb ed="#S" n="32"/>firme vn infelice gouernador: crudelissimo
+          tira<lb ed="#S" n="33" break="no"/>no: sin alguna piedad ni aun prudencia: como vn instru
+          <lb ed="#S" n="34"/>mento del furor diuino: muy de proposito para
+          po<pb ed="#S" n="24"/><lb ed="#S" n="1" break="no"/>blar en aquella tierra con mucha gente de españoles. Y aun
+          <lb ed="#S" n="2"/>que algunos tiranos auian ydo ala tierra firme y auian
+          <lb ed="#S" n="3"/>robado y matado y escandalizado mucha gente: pero
+          <lb ed="#S" n="4"/>auia sido ala costa dela mar / salteando y robando lo que
+          <lb ed="#S" n="5"/>podian. Mas este excedio a todos los otros que antes del
+          <lb ed="#S" n="6"/>auian ydo / y alos de todas las yslas: y sus hechos nefa
+          <lb ed="#S" n="7"/>rios a todas las abominaciones passadas: no solo ala
+          <lb ed="#S" n="8"/>costa dela mar / pero grandes tierras y reynos despoblo
+          <lb ed="#S" n="9"/>y mato echando ymmensas gentes que enellos auia alos
+          <lb ed="#S" n="10"/>infiernos. Este despoblo desde muchas leguas arriba
+          <lb ed="#S" n="11"/>Del darien: hasta el reyno y prouincias de Nicaragua
+          <lb ed="#S" n="12"/>inclusiue: que son mas de quinientas leguas y la meior y
+          <lb ed="#S" n="13"/>mas felice y poblada tierra que se cree auer enel mundo.
+          <lb ed="#S" n="14"/>Donde auia muy muchos grandes señores infinitas y
+          <lb ed="#S" n="15"/>grandes poblaciones: grandissimas riquezas de oro: por
+          <lb ed="#S" n="16"/>que hasta aquel tiempo en ninguna parte auia parecido so
+          <lb ed="#S" n="17"/>bre la tierra tanto. Porque aunque dela ysla española se auia
+          <lb ed="#S" n="18"/>henchido casi españa de oro y de mas fino oro: pero auia
+          <lb ed="#S" n="19"/>sido sacado conlos yndios delas entrañas dela tierra
+          <lb ed="#S" n="20"/>delas minas dichas / donde como se dixo murieron.
+        </p>
+        <p xml:id="ogytbr-a1bza5-d1e175">
+          <lb ed="#S" n="21"/>¶ Este gouernador y su gente ynuento nueuas
+          mane<lb ed="#S" n="22" break="no"/>ras de crueldades y de dar tormentos alos yndios: por
+          <lb ed="#S" n="23"/>que descubriessen y les diessen oro. Capitan vuo suyo
+          <lb ed="#S" n="24"/>que en vna entrada  que hizo por mandado del: para robar
+          <lb ed="#S" n="25"/>y extirpar gentes / mato sobre quarenta mil animas: que
+          <lb ed="#S" n="26"/>vido por sus ojos vn religioso de sant francisco / que con el
+          <lb ed="#S" n="27"/>yua que se llamaua fray francisco de sant roman / metien
+          <lb ed="#S" n="28"/>dolos a espada: quemandolos biuos: y echandolos a per
+          <lb ed="#S" n="29"/>ros brauos: y atormentandolos con diuersos tormentos.
+        </p>
+        <p xml:id="ogytbr-a1bza5-d1e198">
+          <lb ed="#S" n="30"/>¶ Y porque la ceguedad perniciosissima que siempre han te
+          <lb ed="#S" n="31"/>nido hasta oy los que han regido las yndias en disponer
+          <lb ed="#S" n="32"/>y ordenar la conuersion y saluacion de aquellas gentes:
+          <lb ed="#S" n="33"/>la qual siempre han pospuesto (con verdad se dize esto) en
+          <lb ed="#S" n="34"/>la obra y effecto / puesto que por palabra ayan mostrado y
+          <pb ed="#S" n="25"/>
+          <lb ed="#S" n="1"/>colorado / o dissimulado otra cosa: allegado a tanta pro
+          <lb ed="#S" n="2"/>fundidad que ayan ymaginado y practicado y mandado
+          <lb ed="#S" n="3"/>que se les hagan alos Yndios requerimientos que vengan
+          <lb ed="#S" n="4"/>ala fee y a darla obediencia alos reyes de Castilla: sino
+          <lb ed="#S" n="5"/>que les haran guerra a fuego ya sangre y los mataran
+          <lb ed="#S" n="6"/>y captiuaran. etce. Como si el hijo de Dios que murio por
+          <lb ed="#S" n="7"/>cada vno dellos: ouiera en su ley mandado quando dixo.
+          <lb ed="#S" n="8"/>Euntes docete omnes gentes: que se hiziessen requeri
+          <lb ed="#S" n="9"/>mientos alos infieles pacificos y quietos y que tienen sus
+          <lb ed="#S" n="10"/>tierras propias: y sino la recibiessen luego sin otra pre
+          <lb ed="#S" n="11"/>dicacion y doctrina: y sino se diessen assi mesmos al seño
+          <lb ed="#S" n="12"/>rio del rey que nunca oyeron ni vieron: especialmente: cu
+          <lb ed="#S" n="13"/>ya gente y mensajeros son tan crueles: tan
+          desapiada<lb ed="#S" n="14" break="no"/>dos: y tan horribles tyranos: perdiessen porel mesmo ca
+          <lb ed="#S" n="15"/>so la hazienda y las tierras / la libertad / las mugeres y hi
+          <lb ed="#S" n="16"/>jos con todas sus vidas / que es cosa absurda y estulta y dig
+          <lb ed="#S" n="17"/>na de todo vituperio y escarnio y infierno. Assi que como
+          <lb ed="#S" n="18"/>lleuasse aquel triste y malauenturado gouernador: ynstru
+          <lb ed="#S" n="19"/>cion que hiziesse los dichos requerimientos: para mas jus
+          <lb ed="#S" n="20"/>tificallos siendo ellos de si mesmos absurdos/
+          irracio<lb ed="#S" n="21" break="no"/>nables y injustissimos: mandaua / o los ladrones que em
+          <lb ed="#S" n="22"/>biaua lo hazian: quando acordauan de yr a saltear y
+          ro<lb ed="#S" n="23" break="no"/>bar algun pueblo de que tenian noticia tener oro: estando
+          <lb ed="#S" n="24"/>los yndios ensus pueblos y casas seguros: yuanse de
+          <lb ed="#S" n="25"/>noche los tristes españoles salteadores hasta media
+          le<lb ed="#S" n="26" break="no"/>gua del pueblo: y alli aquella noche entre si mesmos aprego
+          <lb ed="#S" n="27"/>nauan / o leyan el dicho requerimiento diziendo: caciques
+          <lb ed="#S" n="28"/>y yndios desta tierra firme de tal pueblo hazemos os
+          sa<lb ed="#S" n="29" break="no"/>ber que ay vn dios y vn papa y vn rey de Castilla que es
+          <lb ed="#S" n="30"/>señor de estas tierras: venid luego a le dar la
+          obedien<lb ed="#S" n="31" break="no"/>cia. etce. Y sino sabed que os haremos guerra y matare
+          <lb ed="#S" n="32"/>mos y captiuaremos. etce. Y al quarto del alua estando
+          <lb ed="#S" n="33"/>los innocentes dnrmiendo con sus mugeres y hijos: ua
+          <lb ed="#S" n="34"/>uan enel pueblo poniendo fuego alas casas que comunmen
+          <pb ed="#S" n="26"/>
+          <lb ed="#S" n="1"/>te eran de paja y quemauan biuos los niños y mugeres
+          <lb ed="#S" n="2"/>y muchos delos de mas antes que acordassen: matauan los
+          <lb ed="#S" n="3"/>que querian y los que tomauan a vida matauan a tormen
+          <lb ed="#S" n="4"/>tos: porque dixessen de otros pueblos de oro / o de mas oro
+          <lb ed="#S" n="5"/>delo que alli hallauan: y los que restauan / herrauan los por es
+          <lb ed="#S" n="6"/>ciauos: yuan despues acabado / o apagado el fuego: a bus
+          <lb ed="#S" n="7"/>car el oro que auia enlas casas. Desta manera y enestas o
+          <lb ed="#S" n="8"/>bras se occupo aquel hombre perdido / con todos los malos
+          <lb ed="#S" n="9"/>christianos que lleuo desde tel año de catorze hasta el año de
+          <lb ed="#S" n="10"/>veynte y vno / o veynte y dos: embiando en aquellas entra
+          <lb ed="#S" n="11"/>das cinco y seys y mas criados: por los quales le dauan
+          <lb ed="#S" n="12"/>tantas partes (allende dela que le cabia por capitan general)
+          <lb ed="#S" n="13"/>de todo el oro y perlas y joyas que robauan y delos esclauos
+          <lb ed="#S" n="14"/>que hazian. Lo mesmo hazian los officiales del rey
+          embian<lb ed="#S" n="15" break="no"/>do cada vno los mas moços / o criados que podia /y el
+          o<lb ed="#S" n="16" break="no"/>bispo primero de aquel reyno embiaua tambien sus criados
+          <lb ed="#S" n="17"/>por tener su parte en aquella grangeria. Mas oro robaron
+          <lb ed="#S" n="18"/>en aquel tiempo de aquel reyno (alo que yo puedo juzgar) de vn
+          <lb ed="#S" n="19"/>millon de castellanos: y creo que me acorto: y no se hallara
+          <lb ed="#S" n="20"/>que embiaron al rey sino tres mil castellanos de todo
+          aque<lb ed="#S" n="21" break="no"/>llo robado: y mas gentes destruyeron de ochocientas
+          <lb ed="#S" n="22"/>mil animas. Los otros tiranos gouernadores que alli
+          <lb ed="#S" n="23"/>suscedieron hasta el año de treynta y tres: mataron y con
+          <lb ed="#S" n="24"/>sintieron matar con la tiranica seruidumbre / que alas guer
+          <lb ed="#S" n="25"/>ras suscedio / los que restauan.
+        </p>
+        <p xml:id="ogytbr-a1bza5-d1e344">
+          <lb ed="#S" n="26"/>¶ Entre infinitas maldades que este hizo y consintio ha
+          <lb ed="#S" n="27"/>zer el tiempo que gouerno: fue que dandole vn cacique / o se
+          <lb ed="#S" n="28"/>ñor de su voluntad / o por miedo (como mas es verdad)
+          <lb ed="#S" n="29"/>nueue mil castellanos: no contentos con esto prendieron
+          <lb ed="#S" n="30"/>al dicho señor y atanlo a vn palo sentado enel suelo y es
+          <lb ed="#S" n="31"/>tendidos los pies: ponen le fuego a ellos porque diesse mas
+          <lb ed="#S" n="32"/>oro: y el embio a su casa y traxeron otros tres mil caste
+          <lb ed="#S" n="33"/>llanos: tornanle a dar tormentos y el no dando mas oro
+          <lb ed="#S" n="34"/>porque no lo tenia / o porque no lo queria dar: tuuieron
+          <pb ed="#S" n="27"/>
+          <lb ed="#S" n="1"/>le de aquella manera: hasta que los tuetanos le salieron
+          <lb ed="#S" n="2"/>por las plantas y assi murio. Y destos fueron insinitas ve
+          <lb ed="#S" n="3"/>zes las: que a señores mataron y atormentaron por sacalles oro
+        </p>
+        <p xml:id="ogytbr-a1bza5-d1e375">
+          <lb ed="#S" n="4"/>¶ O tra vez yendo a saltear cierta capitania de españo
+          <lb ed="#S" n="5"/>les: llegaron a vn monte / donde estaua recogida y escon
+          <lb ed="#S" n="6"/>dida por huyr de tan pestilenciales y horribles obras
+          <lb ed="#S" n="7"/>delos christianos: mucha gente: y dando de subito sobre
+          <lb ed="#S" n="8"/>ella: tomaron setenta / o ochenta donzellas y mugeres
+          <lb ed="#S" n="9"/>muertos muchos que pudieron matar. Otro dia junta
+          <lb ed="#S" n="10"/>ron se muchos yndios y yuan tras los christianos pelean
+          <lb ed="#S" n="11"/>do porel ansia de sus mugeres y hijas: y viendo se los
+          <lb ed="#S" n="12"/>christianos apretados: no quisieron soltar la caualgada:
+          <lb ed="#S" n="13"/>sino meten las espadas por las barrigas delas
+          mucha<lb ed="#S" n="14" break="no"/>chas y mugeres: y no dexaron de todas ochenta vna bi
+          <lb ed="#S" n="15"/>ua. Los yndios que se les rasgauan las entrañas de do
+          <lb ed="#S" n="16"/>lor dauan gritos y dezian / o malos hombres crueles chris
+          <lb ed="#S" n="17"/>tianos: alas yras matays? yra llaman en aquella tierra
+          <lb ed="#S" n="18"/>alas mugeres: quasi diziendo matar las mugeres
+          se<lb ed="#S" n="19" break="no"/>ñal es de abominables y crueles hombres bestiales.
+        </p>
+        <p xml:id="ogytbr-a1bza5-d1e412">
+          <lb ed="#S" n="20"/>¶ A diez / o quinze leguas de Panama estaua vn gran
+          <lb ed="#S" n="21"/>señor que se llamaua Paris y muy rico de oro / fueron alla
+          <lb ed="#S" n="22"/>los christianos: y rescibiolos como si fueran hermanos
+          <lb ed="#S" n="23"/>suyos y presento al capitan cincuenta mil castellanos de
+          <lb ed="#S" n="24"/>su voluntad: el capitan y los christianos parescioles que
+          <lb ed="#S" n="25"/>quien daua aquella cantidad de su gracia que deuia
+          <lb ed="#S" n="26"/>de tener mucho thesoro (que era el sin y consuelo de sus
+          <lb ed="#S" n="27"/>trabajos) dissimularon y dizen que se quieren partir: y
+          <lb ed="#S" n="28"/>tornan al quarto del alua y dan sobre seguro en el
+          pue<lb ed="#S" n="29" break="no"/>blo: queman lo con fuego que pusieron / mataron y que
+          <lb ed="#S" n="30"/>maron mucha gente: y robaron cincuenta / osesenta mil
+          <lb ed="#S" n="31"/>castellanos otros: y el cacique / o señor escapose / que
+          <lb ed="#S" n="32"/>no le mataron / o prendieron. Junto presto la mas
+          <lb ed="#S" n="33"/>gente que pudo y a cabo de dos / o tres dias alcanço
+          <lb ed="#S" n="34"/>los christianos que lleuauan sus ciento y treynta / o qua
+          <pb ed="#S" n="28"/>
+          <lb ed="#S" n="1"/>renta mil castellanos y da enellos varonilmente: y
+          ma<lb ed="#S" n="2" break="no"/>ta cincuenta christianos y tomales todo el oro escapandose
+          <lb ed="#S" n="3"/>los otros huyendo y bien heridos. Despues tornan mu
+          <lb ed="#S" n="4"/>chos christianos sobre el dicho caciquey assolaronlo a el y a
+          <lb ed="#S" n="5"/>insinita de su gente: y los demas pusieron y mataron en
+          <lb ed="#S" n="6"/>la ordinaria seruidumbre. Por manera que no ay oy
+          vesti<lb ed="#S" n="7" break="no"/>gio ni señal de que aya auido alli pueblo ni hombre naci
+          <lb ed="#S" n="8"/>do teniendo treynta leguas llenas de gente de señorio.
+          <lb ed="#S" n="9"/>Destas no tienen cuento las matanças y perdiciones
+          <lb ed="#S" n="10"/>que aquel misero hombre con su compañia en aquellos
+          <lb ed="#S" n="11"/>reynos (que despoblo) hizo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

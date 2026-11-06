@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 6</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 6</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="28"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1cd86"><!-- c6 -->
+        <head xml:id="ogytbr-a1cd86-Hd1e109">Capítulo 6</head>
+        <head xml:id="ogytbr-a1cd86-Hd1e111" type="question-title">De la provincia de Nicaragua</head>
+        <p xml:id="ogytbr-a1cd86-d1e114">
+          <lb ed="#S" n="12"/>Dela prouincia de Nicaragua
+        </p>
+        <p xml:id="ogytbr-a1cd86-d1e119">
+          <lb ed="#S" n="13"/>El año de mil y quinientos y veynte y dos/
+          <lb ed="#S" n="14"/>o veynte y tres passo este tyrano a sojuzgar
+          <lb ed="#S" n="15"/>la felicissima prouincia de Nicaragua: el
+        </p>
+        <p xml:id="ogytbr-a1cd86-d1e128">
+          <lb ed="#S" n="16"/>qual entro enella en triste ora. Desta
+          pro<lb ed="#S" n="17" break="no"/>uincia quien podra encarescer la felicidad/
+          <lb ed="#S" n="18"/>sanidad / amenidad y prosperidad y frequencia y poblaci
+          <lb ed="#S" n="19"/>on de gente suya? Era cosa verdaderamente de
+          admira<lb ed="#S" n="20" break="no"/>cion / ver quan poblada de pueblos que quasi durauan tres
+          <lb ed="#S" n="21"/>y quatro leguas en luengo: llenos de admirables
+          fru<lb ed="#S" n="22" break="no"/>tales que causaua ser immensa la gente. A estas gentes (por
+          <lb ed="#S" n="23"/>que era la tierra llana y rasa que no podian asconderse enlos
+          <lb ed="#S" n="24"/>montes y deleytosa que con mucha angustia y
+          dificul<lb ed="#S" n="25" break="no"/>tad osauan dexarla: porlo qual sufrian y sufrieron gran
+          <lb ed="#S" n="26"/>des persecuciones: y quanto les era possible tolerauan
+          <lb ed="#S" n="27"/>las tyranias y seruidumbre delos christianos: y porque de su na
+          <lb ed="#S" n="28"/>tura era gente muy mansa y pacifica) hizoles aquel tyrano
+          <lb ed="#S" n="29"/>con sus tiranos compañeros que fueron conel / todos los que a to
+          <lb ed="#S" n="30"/>do el otro reyno le auian ayudado a destruyr: tantos daños
+          <lb ed="#S" n="31"/>tantas matanças / tantas crueldades / tantos captiuerios y sin
+          <lb ed="#S" n="32"/>justicias: que no podria lengua huna dezirlo. Embiaua. 50. de
+          <lb ed="#S" n="33"/>cauallo y hazia alancear toda vna prouincia mayor que el
+          <pb ed="#S" n="29"/>
+          <lb ed="#S" n="1"/>Condado de Rusellon que no dexaua hombre ni muger
+          <lb ed="#S" n="2"/>ni viejo ni niño a vida por muy liuiana cosa: assi como
+          <lb ed="#S" n="3"/>porque no venian tan presto asu llamado / o no le trayan
+          <lb ed="#S" n="4"/>tantas cargas de mahiz que es el trigo de alla / o tantos
+          <lb ed="#S" n="5"/>yndios para que siruiessen a el / o a otro delos de su
+          com<lb ed="#S" n="6" break="no"/>pañia. Porque como era la tierra llana: no podia
+          hu<lb ed="#S" n="7" break="no"/>yr delos cauallos ninguno / ni de su yra infernal.
+        </p>
+        <p xml:id="ogytbr-a1cd86-d1e188">
+          <lb ed="#S" n="8"/>¶ Embiaua españoles a hazer entradas que es yr a
+          sal<lb ed="#S" n="9" break="no"/>tear yndios a otras prouincias: y dexaua lleuar alos sal
+          <lb ed="#S" n="10"/>teadores quantos Yndios querian delos pueblos
+          pa<lb ed="#S" n="11" break="no"/>cificos / y que les seruian. Los quales echauan en cade
+          <lb ed="#S" n="12"/>nas porque no les dexassen las cargas de tres arrobas
+          <lb ed="#S" n="13"/>que les echauan a cuestas. Y acaescio vez de muchas que
+          <lb ed="#S" n="14"/>esto hizo que de quatro mil yndios: no boluieron seys
+          <lb ed="#S" n="15"/>biuos a sus casas que todos los dexauan muertos por
+          <lb ed="#S" n="16"/>los caminos. E quando algunos cansauan y se
+          despea<lb ed="#S" n="17" break="no"/>uan delas grandes cargas y enfermauan de hambre y
+          <lb ed="#S" n="18"/>trabajo y flaqueza: por no desensartarlos delas cadenas
+          <lb ed="#S" n="19"/>les cortauan por la collera la cabeça y caya la cabeça a
+          <lb ed="#S" n="20"/>vn cabo v el cuerpo a otro. Ueasse que sentirian los
+          o<lb ed="#S" n="21" break="no"/>tros. E assi quando se ordenauan semejantes
+          romeri<lb ed="#S" n="22" break="no"/>as: como tenian experiencia los yndios de que
+          ningu<lb ed="#S" n="23" break="no"/>no boluia: quando saltan yuan llorando y sospirando
+          <lb ed="#S" n="24"/>los yndios y diziendo: aquellos son los caminos por
+          <lb ed="#S" n="25"/>donde yuamos a seruir alos christianos y aunque
+          tra<lb ed="#S" n="26" break="no"/>bajauamos mucho / enfin boluiamonos acabo de algun
+          <lb ed="#S" n="27"/>tiempo a nuestras casas y a nuestras mugeres y hijos:
+          <lb ed="#S" n="28"/>pero agora vamos sin esperança de nunca jamas boluer
+          <lb ed="#S" n="29"/>ni verlos ni de tener mas vida.
+        </p>
+        <p xml:id="ogytbr-a1cd86-d1e238">
+          <lb ed="#S" n="30"/>¶ Una vez porque quiso hazer nueuo repartimiento
+          <lb ed="#S" n="31"/>delos yndios / porque se le antojo (y aun dizen que por
+          <lb ed="#S" n="32"/>quitar los yndios a quien no queria bien y dallos a qui
+          <lb ed="#S" n="33"/>en le parescia) fue causa que los yndios no sembrassen
+          <lb ed="#S" n="34"/>vna sementera: y como no vuo pan / los christianos toma
+          <pb ed="#S" n="30"/>
+          <lb ed="#S" n="1"/>ron a los yndios quanto mahiz tenian para mantener
+          <lb ed="#S" n="2"/>a si y a sus hijos: por lo qual murieron de hambre mas de
+          <lb ed="#S" n="3"/>veynte / o treynta mil animas y acaescio muger matar
+          <lb ed="#S" n="4"/>su hijo para comello de hambre.
+        </p>
+        <p xml:id="ogytbr-a1cd86-d1e262">
+          <lb ed="#S" n="5"/>¶ Como los pueblos que tenian eran todos vna muy gran
+          <lb ed="#S" n="6"/>ciosa huerta cada vno como se dixo: aposentaronse ene
+          <lb ed="#S" n="7"/>llos los christianos cada vno enel pueblo que le repartian (o
+          <lb ed="#S" n="8"/>como dizen ellos) le encomendauan: y hazia enel sus la
+          <lb ed="#S" n="9"/>branças manteniendose delas comidas pobres delos
+          <lb ed="#S" n="10"/>Yndios: y assi les tomaron sus particulares tierras y he
+          <lb ed="#S" n="11"/>redades de que se mantenian. Por manera que tenian los
+          <lb ed="#S" n="12"/>espaunoles dentro de sus mesmas casas todos los
+          yndi<lb ed="#S" n="13" break="no"/>os señores viejos mugeres y niños y a todos hazen que
+          <lb ed="#S" n="14"/>les siruan noches y dias sin holgança hasta los niños/
+          <lb ed="#S" n="15"/>quan presto pueden tenerse enlos pies: los ocupauan en
+          <lb ed="#S" n="16"/>lo que cada vno puede hazer y mas delo que puede y assi los
+          <lb ed="#S" n="17"/>han consumido y consumen oy los pocos que han restado/
+          <lb ed="#S" n="18"/>no teniendo ni dexandoles tener casa ni cosa propia: en
+          <lb ed="#S" n="19"/>lo qual aun exceden alas injusticias eneste genero que enla
+          <lb ed="#S" n="20"/>española se hazian.
+        </p>
+        <p xml:id="ogytbr-a1cd86-d1e299">
+          <lb ed="#S" n="21"/>¶ Han fatigado y oppresso y sido causa de su accelera
+          <lb ed="#S" n="22"/>da muerte de muchas gentes enesta prouincia
+          hazien<lb ed="#S" n="23" break="no"/>doles lleuarla tablazon y madera de treynta leguas al
+          <lb ed="#S" n="24"/>puerto para hazer nauios: y embiallos a buscar miel y
+          <lb ed="#S" n="25"/>cera por los montes donde los comen los tigres: y han
+          <lb ed="#S" n="26"/>cargado y cargan oy las mugeres preñadas y paridas
+          <lb ed="#S" n="27"/>como a bestias.
+        </p>
+        <p xml:id="ogytbr-a1cd86-d1e317">
+          <lb ed="#S" n="28"/>¶ La pestilencia mas horrible que principalmente ha as
+          <lb ed="#S" n="29"/>solado aqualla prouincia / a sido la licencia que aquel gouerna
+          <lb ed="#S" n="30"/>dor dio alos españoles para pedir esclauos alos caciques y
+          <lb ed="#S" n="31"/>señores delos pueblos. Pedian cada quatro / o cinco meses/
+          <lb ed="#S" n="32"/>o cada vez que cada vno alcançaua la gracia / o licencia del di
+          <lb ed="#S" n="33"/>cho gouernador al cacique: cincuenta esclauos con amena
+          <lb ed="#S" n="34"/>zas que sino los dauan lo auian de quemar biuo / o echar alos
+          <pb ed="#S" n="31"/>
+          <lb ed="#S" n="1"/>perros brauos. Como los Yndios comunmente no tienen
+          <lb ed="#S" n="2"/>esclauos quando mucho vn cacique tiene dos / o tres / o qua
+          <lb ed="#S" n="3"/>tro: Yuan los señores porsu pueblo y tomauan lo primero
+          <lb ed="#S" n="4"/>todos los huerfanos: y despues pedia a quien tenia dos
+          <lb ed="#S" n="5"/>hijos vno: y aquien tres dos: y desta manera cumplia el ca
+          <lb ed="#S" n="6"/>cique el numero que el tirano le pedia: con grandes alaridos
+          <lb ed="#S" n="7"/>y llantos del pueblo: porque son las gentes que mas parece que a
+          <lb ed="#S" n="8"/>man a sus hijos. Como esto se hazia tantas vezes assolan
+          <lb ed="#S" n="9"/>ron desde el año de veynte y tres hasta el año de treynta
+          <lb ed="#S" n="10"/>y tres todo aquel reyno: porque anduuieron seys / o siete años
+          <lb ed="#S" n="11"/>cinco / o seys nauios al tracto: lleuando todas aquellas mu
+          <lb ed="#S" n="12"/>chedumbres de Yndios a vender por esclauos a Panama/
+          <lb ed="#S" n="13"/>y al Peru: donde todos son muertos. Porque es auerigua
+          <lb ed="#S" n="14"/>do y experimentado millares de vezes: que sacando los yndi
+          <lb ed="#S" n="15"/>os de sus tierras naturales / luego mueren mas facilmente.
+          <lb ed="#S" n="16"/>Porque siempre no les dan de comer / y no les quitan nada de
+          <lb ed="#S" n="17"/>los trabajos: como no los vendan ni los otros los compren
+          <lb ed="#S" n="18"/>sino para trabajar. Desta manera han sacado de aquella pro
+          <lb ed="#S" n="19"/>uincia yndios hechos esclauos siendo tan libres como yo/
+          <lb ed="#S" n="20"/>mas de quinientas mil almas. Por las guerras infernales
+          <lb ed="#S" n="21"/>que los españoles les han hecho y por el captiuerio horri
+          <lb ed="#S" n="22"/>ble en que los pusieron: mas han muerto de otras quinientas y
+          <lb ed="#S" n="23"/>seyscientas mil personas hasta oy y oy los matan. En obra
+          <lb ed="#S" n="24"/>de catorze años todos estos estragos se han hecho. Aura
+          <lb ed="#S" n="25"/>oy en toda la dicha prouincia de Nicaragua obra de quatro
+          <lb ed="#S" n="26"/>o cinco mil personas las quales matan cada dia con los serui
+          <lb ed="#S" n="27"/>cios y oppressiones cotidianas y personales: siendo (co
+          <lb ed="#S" n="28"/>mo se dixo) vna delas pobladas del mundo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

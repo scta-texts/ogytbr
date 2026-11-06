@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prólogo</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prólogo</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="4"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a15pzt"><!-- prol -->
+        <head xml:id="ogytbr-a15pzt-Hd1e109">Prólogo</head>
+        <head xml:id="ogytbr-a15pzt-Hd1e111" type="question-title">Prólogo del obispo don fray Bartolomé de las Casas o Casaus para el muy alto y muy poderoso señor el príncipe de las Españas don Felipe nuestro señor</head>
+        <p xml:id="ogytbr-a15pzt-d1e114">
+          <pb ed="#S" n="4"/>
+          <lb ed="#S" n="1"/>¶ Prologo del obispo don fray
+          <lb ed="#S" n="2"/>Bartholome delas casas / o casaus para el
+          <lb ed="#S" n="3"/>muy alto y muy poderoso señor el
+          <lb ed="#S" n="4"/>principe delas Españas don
+          <lb ed="#S" n="5"/>Felipe nuestro señor.
+        </p>
+        <p xml:id="ogytbr-a15pzt-d1e130">
+          <lb ed="#S" n="6"/>Muy alto y muy po
+          <lb ed="#S" n="7"/>deroso señor.
+        </p>
+        <p xml:id="ogytbr-a15pzt-d1e137">
+          <lb ed="#S" n="8"/>Como la prouiden
+          <lb ed="#S" n="9"/>cia diuina tenga ordenado en
+          <lb ed="#S" n="10"/>su mundo: que para direcion y
+          <lb ed="#S" n="11"/>comun vtilidad del linaje huma
+          <lb ed="#S" n="12"/>no se constituyessen enlos Rey
+          <lb ed="#S" n="13"/>nos y pueblos / reyes / como pa
+          <lb ed="#S" n="14"/>dres y pastores (segun los nom
+          <lb ed="#S" n="15"/>bra Homero) y por consiguien
+          <lb ed="#S" n="16"/>te sean los mas nobles y
+          gene<lb ed="#S" n="17" break="no"/>rosos miembros delas republicas: ninguna dubda de
+          <lb ed="#S" n="18"/>la rectitud de sus animos reales se tiene / o con recta ra
+          <lb ed="#S" n="19"/>zon se deue tener: que si algunos defectos / nocumentos
+          <lb ed="#S" n="20"/>y males se padecen enellas: no ser otra la causa sino
+          ca<lb ed="#S" n="21" break="no"/>recer los reyes dela noticia dellos. Los quales si les con
+          <lb ed="#S" n="22"/>stassen: con summo estudio y vigilante solercia extirpari
+          <lb ed="#S" n="23"/>an. Esto parece auer dado a entender la diuina escriptu
+          <pb ed="#S" n="5"/>
+          <lb ed="#S" n="1"/>ra enlos prouerbios de Salomon. Rex qui sedet in solio
+          <lb ed="#S" n="2"/>iudicij: dissipat omne maluz intuitu suo. Porque dela in
+          <lb ed="#S" n="3"/>nata y natural virtud del rey assi se suppone (conuiene a
+          <lb ed="#S" n="4"/>saber) que la noticia sola del mal de su reyno es bastantissi
+          <lb ed="#S" n="5"/>ma: para que lo dissipe: y que ni por vn momento solo en quan
+          <lb ed="#S" n="6"/>to ensi fuere lo pueda sufrir. ¶ Considerando pues yo
+          <lb ed="#S" n="7"/>(muy poderoso señor) los males y daños / perdicion y
+          <lb ed="#S" n="8"/>jacturas (delos quales nunca otros yguales ni semejantes
+          <lb ed="#S" n="9"/>se ymaginaron poderse por hombres hazer) de aquellos tan
+          <lb ed="#S" n="10"/>tos y tan grandes y tales reynos: y por mejor dezir de a
+          <lb ed="#S" n="11"/>quel vastissimo y nueuo mundo delas yndias: concedidos
+          <lb ed="#S" n="12"/>y encomendados por dios y por su yglesia alos reyes
+          <lb ed="#S" n="13"/>de castilla: para que se los rigiessen y gouernassen / conuer
+          <lb ed="#S" n="14"/>tiessen y prosperassen temporal y espiritualmente: como
+          hom<lb ed="#S" n="15" break="no"/>bre que por cincuenta años y mas de experiencia siendo en
+          <lb ed="#S" n="16"/>aquellas tierras presente los he visto cometer: que constando
+          <lb ed="#S" n="17"/>le a vuestra alteza algunas particulares hazañas dellos:
+          <lb ed="#S" n="18"/>no podria contenerse de suplicar asu magestad con instan
+          <lb ed="#S" n="19"/>cia inportuna / que no conceda ni permita las que los
+          tyra<lb ed="#S" n="20" break="no"/>nos inuentaron / prosiguieron y han cometido / llaman con
+          <lb ed="#S" n="21"/>quistas. Enlas quales (si se permitiessen) han de tornarse a
+          <lb ed="#S" n="22"/>hazer: pues de si mismas (hechas contra aquellas indianas
+          <lb ed="#S" n="23"/>gentes / pacificas / humildes y mansas que a nadie
+          offen<lb ed="#S" n="24" break="no"/>den) son iniquas / tiranicas y por toda ley natural diui
+          <lb ed="#S" n="25"/>na y humana condenadas / detestadas y malditas: deli
+          <lb ed="#S" n="26"/>bere por no ser reo callando delas perdiciones de animas
+          <lb ed="#S" n="27"/>y cuerpos infinitas que los tales perpetraran: poner en
+          <lb ed="#S" n="28"/>molde algunas y muy pocas que los dias passados colegi
+          <lb ed="#S" n="29"/>de innumerables que con verdad podria referir: para que
+          <lb ed="#S" n="30"/>con mas facilidad vuestra alteza las pueda leer.
+        </p>
+        <p xml:id="ogytbr-a15pzt-d1e242">
+          <lb ed="#S" n="31"/>¶ Y puesto que el arçobispo de Toledo maestro de vuestra
+          al<lb ed="#S" n="32" break="no"/>teza siendo obispo de Cartagena me las pidio y presen
+          <lb ed="#S" n="33"/>to a vuestra alteza: pero por los largos caminos de mar
+          <lb ed="#S" n="34"/>y de tierra que vuestra alteza ha emprendido y occupacio
+          <pb ed="#S" n="6"/>
+          <lb ed="#S" n="1"/>nes frequentes reales que ha tenido: puede auer sido que
+          <lb ed="#S" n="2"/>o vuestra alteza no las leyo / o que ya oluidadas las tiene: y
+          <lb ed="#S" n="3"/>el ansia temeraria y irracional delos que tienen por nada
+          <lb ed="#S" n="4"/>indeuidamente derramar tan immensa copia de huma
+          <lb ed="#S" n="5"/>na sangre: y despoblar de sus naturales moradores y pos
+          <lb ed="#S" n="6"/>seedores matando mil cuentos de gentes: aquellas tierras
+          <lb ed="#S" n="7"/>grandissimas: y robar incomparables thesoros: crece
+          <lb ed="#S" n="8"/>cada dia importunando por diuersas vias y varios fin
+          <lb ed="#S" n="9"/>gidos colores: que se les concedan / o permitan las dichas
+          <lb ed="#S" n="10"/>conquistas (las quales no se les podrian conceder sin
+          <lb ed="#S" n="11"/>violacion dela ley natural y diuina y por consiguiente
+          <lb ed="#S" n="12"/>grauissimos peccados mortales / dignos de terribles
+          <lb ed="#S" n="13"/>y eternos supplicios) tuue por conuiniente: seruir a vu
+          <lb ed="#S" n="14"/>estra alteza coneste sunmario breuissimo de muy disfusa
+          <lb ed="#S" n="15"/>hystoria que delos estragos y perdiciones acaecidas se po
+          <lb ed="#S" n="16"/>dria y deuria componer. Suplico a vuestra alteza lo
+          res<lb ed="#S" n="17" break="no"/>ciba y lea con la clemencia y real benignidad que suele las
+          <lb ed="#S" n="18"/>obras de sus criados y seruidores: que puramente por so
+          <lb ed="#S" n="19"/>lo el bien publico y prosperidad del estado real seruir
+          <lb ed="#S" n="20"/>dessean. Lo qual visto: y entendida la deformidad dela
+          <lb ed="#S" n="21"/>injusticia que a aquellas gentes innocentes se haze: destru
+          <lb ed="#S" n="22"/>yendolas y despedaçandolas sin auer causa ni razon jus
+          <lb ed="#S" n="23"/>ta para ello: sino por sola la cudicia y ambicion delos que
+          <lb ed="#S" n="24"/>hazer tan nefarias obras pretenden: vuestra alteza
+          <lb ed="#S" n="25"/>tenga por bien de con efficacia supplicar y persuadir a su
+          <lb ed="#S" n="26"/>magestad que deniegue a quien las pidiere tan nociuas
+          <lb ed="#S" n="27"/>y detestables empresas: antes ponga en esta demanda in
+          <lb ed="#S" n="28"/>fernal perpetuo silencio con tanto terror: que ninguno sea
+          <lb ed="#S" n="29"/>osado dende adelante ni aun solamente se las nombrar.
+          <lb ed="#S" n="30"/>Cosa es esta (muy alto señor) conuenientissima y neces
+          <lb ed="#S" n="31"/>saria para que todo el estado dela corona real de Castilla
+          <lb ed="#S" n="32"/>espiritual y temporalmente Dios lo prospere y conser
+          <lb ed="#S" n="33"/>ue y haga bienauenturado Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

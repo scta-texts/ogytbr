@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 14</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 14</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="61"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1hkg7"><!-- c14 -->
+        <head xml:id="ogytbr-a1hkg7-Hd1e109">Capítulo 14</head>
+        <head xml:id="ogytbr-a1hkg7-Hd1e111" type="question-title">De la Costa de las Perlas y de Paria y la isla de la Trinidad</head>
+        <p xml:id="ogytbr-a1hkg7-d1e114">
+          <lb ed="#S" n="27"/>¶ Dela costa delas perlas y de
+          <lb ed="#S" n="28"/>Paria y la ysla dela Trinidad.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e121">
+          <lb ed="#S" n="29"/>Desde la costa de paria hasta el Golfo de Ueneçuela
+          <lb ed="#S" n="30"/>exclusiue que aura dozientas leguas / han sido grandes
+          <pb ed="#S" n="62"/>
+          <lb ed="#S" n="1"/>y señaladas las destruyciones que los españoles han be
+          <lb ed="#S" n="2"/>cho en aquellas gentes: salteandolos y tomandolos los
+          <lb ed="#S" n="3"/>mas que podian a vida para vendellos por esclauos. Mu
+          <lb ed="#S" n="4"/>chas vezes tomandolos sobre seguro y amistad que los
+          <lb ed="#S" n="5"/>españoles auian conellos tratado: no guardandoles fee
+          <lb ed="#S" n="6"/>ni verdad: rescibiendolos en sus casas como a padres
+          <lb ed="#S" n="7"/>y a hijos: dandoles y siruiendoles con quanto tenian y
+          <lb ed="#S" n="8"/>podian. No se podrian cierto facilmente dezir ni
+          enca<lb ed="#S" n="9" break="no"/>recer particularizadamente quales y quantas han sido
+          <lb ed="#S" n="10"/>las injusticias / injurias / agrauios y desafueros que
+          <lb ed="#S" n="11"/>las gentes de aquella costa delos españoles han recebi
+          <lb ed="#S" n="12"/>do: desde el año de mil y quinientos y diez hasta oy. Dos
+          <lb ed="#S" n="13"/>o tres quiero dezir solamente / por las quales se juzguen
+          <lb ed="#S" n="14"/>otras ynnumerables en numero y fealdad que fueron
+          <lb ed="#S" n="15"/>dignas de todo tormento y fuego.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e163">
+          <lb ed="#S" n="16"/>¶ Enla ysla dela trinidad que es mucho mayor que
+          Si<lb ed="#S" n="17" break="no"/>cilia y mas felice: questa pegada con la tierra firme por
+          <lb ed="#S" n="18"/>la parte de paria y que la gente della: es dela buena y vir
+          <lb ed="#S" n="19"/>tuosa en su genero que ay en todas las yndias: yendo
+          <lb ed="#S" n="20"/>a ella vn salteador el año de mil y quinientos y diez y
+          se<lb ed="#S" n="21" break="no"/>ys con otros sessenta / o setenta acostumbrados
+          ladro<lb ed="#S" n="22" break="no"/>nes: publicaron alos yndios que se venian a morar y bi
+          <lb ed="#S" n="23"/>uir a aquella ysla con ellos. Los yndios rescibieron los
+          <lb ed="#S" n="24"/>como si fueran sus entrañas y sus hijos: siruiendoles
+          <lb ed="#S" n="25"/>señores y subditos con grandissima affection y alegria:
+          <lb ed="#S" n="26"/>trayendoles cada dia de comer tanto que les sobraua
+          <lb ed="#S" n="27"/>para que comieran otros tantos: porque esta es comun
+          <lb ed="#S" n="28"/>condicion y liberalidad de todos los yndios de aquel
+          <lb ed="#S" n="29"/>nueuo mundo: dar excessiuamente lo que han menester
+          <lb ed="#S" n="30"/>los españoles y quanto tienen. Hazen les vna gran
+          ca<lb ed="#S" n="31" break="no"/>sa de madera en que morassen todos: porque assi la qui
+          <lb ed="#S" n="32"/>sieron los españoles: que fuesse vna no mas para hazer
+          <lb ed="#S" n="33"/>lo que pretendian hazer y hizieron. Al tiempo que
+          po<pb ed="#S" n="63"/><lb ed="#S" n="1" break="no"/>nian la paja sobrelas varas / o madera y auian cobrido
+          <lb ed="#S" n="2"/>obra de dos estados: porque los de dentro no viessen a
+          <lb ed="#S" n="3"/>los de fuera / so color de dar priessa a que se acabasse la ca
+          <lb ed="#S" n="4"/>sa: metieron mucha gente dentro della / y repartieron
+          <lb ed="#S" n="5"/>se los españoles: algunos fuera al derredor dela casa con
+          <lb ed="#S" n="6"/>sus armas para los que se saliessen: y otros dentro. Los
+          <lb ed="#S" n="7"/>quales echan mano alas espadas y comiençan amena
+          <lb ed="#S" n="8"/>zar los yndios desnudos que no se mouiessen: sino que
+          <lb ed="#S" n="9"/>los matarian: y començaron a atar y otros que
+          salta<lb ed="#S" n="10" break="no"/>ron para huyr: hizieron pedaços con las espadas. Algu
+          <lb ed="#S" n="11"/>nos que salieron heridos y sanos y otros del pueblo que
+          <lb ed="#S" n="12"/>no auian entrado: tomaron sus arcos y slechas: y reco
+          <lb ed="#S" n="13"/>gense a otra casa del pueblo para se defender donde en
+          <lb ed="#S" n="14"/>traron ciento / o dozientos dellos y defendiendo la
+          pu<lb ed="#S" n="15" break="no"/>erta: pegan los españoles fuego ala casa y quemanlos
+          <lb ed="#S" n="16"/>todos biuos. Y con su presa que seria de ciento y ochen
+          <lb ed="#S" n="17"/>ta / o dozientos hombres que pudieron atar: vanse a su
+          <lb ed="#S" n="18"/>nauio y alçan las velas y van ala ysla de san Juan
+          don<lb ed="#S" n="19" break="no"/>de venden la mitad poresclauos: y despues ala
+          españo<lb ed="#S" n="20" break="no"/>la donde vendieron la otra. Reprehendiendo yo al
+          ca<lb ed="#S" n="21" break="no"/>pitan desta tan insigne traycion y maldad: ala sazon en
+          <lb ed="#S" n="22"/>la mesma yssa de sant Juan: me respondio: anda señor
+          <lb ed="#S" n="23"/>que assi me lo mandaron y me lo dieron por instrucion
+          <lb ed="#S" n="24"/>los que me embiaron: que quando no pudiesse tomar
+          <lb ed="#S" n="25"/>los por guerra que los tomasse por paz. Y en verdad
+          <lb ed="#S" n="26"/>que me dixo que en toda su vida auia hallado padre ni
+          <lb ed="#S" n="27"/>madre: sino enla ysla dela Trinidad: segun las buenas
+          <lb ed="#S" n="28"/>obras quelos yndios le auian hecho. Esto dixo para
+          <lb ed="#S" n="29"/>mayor confusion suya y agrauamiento de sus pecados.
+          <lb ed="#S" n="30"/>Destas han hecho en aquella tierra firme infinitas: to
+          <lb ed="#S" n="31"/>mandolos y captiuandolos sobre seguro. Uease que
+          o<lb ed="#S" n="32" break="no"/>bras son estas y si aquellos yndios ansi tomados si
+          se<lb ed="#S" n="33" break="no"/>ran justamente hechos esclauos.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e278">
+          <pb ed="#S" n="64"/>
+          <lb ed="#S" n="1"/>¶ Otra vez acordando los frayles de sancto
+          Domin<lb ed="#S" n="2" break="no"/>go nuestra orden de yr a predicar y conuertir aquellas
+          <lb ed="#S" n="3"/>gentes: que carescian de remedio y lumbre de doctrina
+          <lb ed="#S" n="4"/>para saluar sus animas como lo estan oy las yndias: em
+          <lb ed="#S" n="5"/>biaron vn religioso presentado en theologia de gran vir
+          <lb ed="#S" n="6"/>tud y sanctidad con vn frayle lego su compañero: para
+          <lb ed="#S" n="7"/>que viesse la tierra y tractase la gente y buscasse lugar
+          <lb ed="#S" n="8"/>apto para hazer monasterios. Llegados los religiosos
+          <lb ed="#S" n="9"/>recibieronlos los yndios como a angeles del cielo y o
+          <lb ed="#S" n="10"/>yen los con gran affection / y atencion y alegria las pa
+          <lb ed="#S" n="11"/>labras que pudieron entonces darles a entender mas
+          <lb ed="#S" n="12"/>por señas que por habla: porque no sabian la lengua. A
+          <lb ed="#S" n="13"/>caescio venir por alli vn nauio / despues de ydo el que
+          <lb ed="#S" n="14"/>alli los dexo: y los españoles del vsando de su infernal
+          <lb ed="#S" n="15"/>costumbre: traen por engaño sin saberlo los religiosos
+          <lb ed="#S" n="16"/>al señor de aquella tierra que se llamaua Doñalonso / o
+          <lb ed="#S" n="17"/>que los frayles le auian puesto este nombre / o otros
+          es<lb ed="#S" n="18" break="no"/>pañoles. Porque los yndios son amigos y cudiciosos
+          <lb ed="#S" n="19"/>de tener nombre de christiano y luego lo piden que se lo
+          <lb ed="#S" n="20"/>den aun antes que sepan nada para ser baptizados. As
+          <lb ed="#S" n="21"/>si que engañan al dicho Doñalonso para que entrase
+          <lb ed="#S" n="22"/>enel nauio con su muger y otras ciertas personas y que
+          <lb ed="#S" n="23"/>les harian alla fiesta. Finalmente que entraron diez y sie
+          <lb ed="#S" n="24"/>te personas conel señor y su muger: con confiança que
+          <lb ed="#S" n="25"/>los religiosos estauan en su tierra y que los españoles
+          <lb ed="#S" n="26"/>porellos no harian alguna maldad / porque de otra ma
+          <lb ed="#S" n="27"/>nera no se fiaran dellos. Entrados los yndios enel
+          na<lb ed="#S" n="28" break="no"/>uio alçan las velas los traydores: y vienen se ala ysla es
+          <lb ed="#S" n="29"/>pañola y venden los por esclauos. Toda la tierra como
+          <lb ed="#S" n="30"/>veen su señor y señora lleuados: vienen alos frayles y quie
+          <lb ed="#S" n="31"/>ren los matar. Los frayles viendo tan gran maldad que
+          <lb ed="#S" n="32"/>rian se morir de angustia: y es de creer que dieran
+          an<lb ed="#S" n="33" break="no"/>tes sus vid/as que fuera tal injusticia hecha: especialmen
+          <lb ed="#S" n="34"/>te porque eran poner impedimento a que nunca
+          aque<pb ed="#S" n="65"/><lb ed="#S" n="1" break="no"/>llas animas pudiessen oyr ni creer la palabra de dios.
+          <lb ed="#S" n="2"/>Apaziguaronlos lo mejor que pudieron y dixeronles
+          <lb ed="#S" n="3"/>que conel primer nauio que por alli passasse escriuirian
+          <lb ed="#S" n="4"/>ala ysla española y que haria que les tornassen su señor y
+          <lb ed="#S" n="5"/>los de mas que conel estauan. Truxo dios por alli
+          lue<lb ed="#S" n="6" break="no"/>go vn nauio: para mas confirmacion dela dannacion delos
+          <lb ed="#S" n="7"/>que gouernauan / y escriuieron alos religiosos dela espa
+          <lb ed="#S" n="8"/>ñola / enel claman / protestan / vna y muchas vezes:
+          nun<lb ed="#S" n="9" break="no"/>ca quisieron los oydores hazerles justicia: porque entre
+          <lb ed="#S" n="10"/>ellos mesmos estauan repartidos parte delos yndios
+          <lb ed="#S" n="11"/>que ansi tan ynjusta y malamente auian prendido los
+          <lb ed="#S" n="12"/>tyranos. Los dos religiosos que auian prometido alos
+          <lb ed="#S" n="13"/>yndios dela tierra que dentro de quatro meses vernia
+          <lb ed="#S" n="14"/>su señor Doñalonso con los de mas: viendo que ni en qua
+          <lb ed="#S" n="15"/>tro ni en ocho vinieron: aparejaron se para morir y da
+          <lb ed="#S" n="16"/>la vida a quien la auian ya antes que partiessen ofreci
+          <lb ed="#S" n="17"/>do. Y assi los yndios tomaron vengança dellos justamen
+          <lb ed="#S" n="18"/>te matandolos / aunque innocentes: porque estimaron
+          <lb ed="#S" n="19"/>que ellos auian sido causa de aquella traycion. Y porque
+          <lb ed="#S" n="20"/>vieron que no salio verdad lo que dentro delos quatro
+          <lb ed="#S" n="21"/>meses les certificaron y prometieron: y porque hasta
+          en<lb ed="#S" n="22" break="no"/>tonces / ni aun hasta agora no supieron ni saben oy que
+          <lb ed="#S" n="23"/>aya diferencia delos frayles alos tiranos y ladrones y
+          <lb ed="#S" n="24"/>salteadores españolea por toda aquella tierra. Los bie
+          <lb ed="#S" n="25"/>nauenturados fray les padescieron injustamente: por la
+          <lb ed="#S" n="26"/>qual injusticia ninguna duda ay que segun nuestra fee
+          <lb ed="#S" n="27"/>sancta: sean verdaderos martires y reynen oy con dios
+          <lb ed="#S" n="28"/>enlos cielos bienauenturados. Como quiera que alli
+          <lb ed="#S" n="29"/>fuessen embiados por la obediencia y lleuassen intenci
+          <lb ed="#S" n="30"/>on de predicar y dilatar la sancta fee y saluar todas aque
+          <lb ed="#S" n="31"/>llas animas / y padescer qualesquiera trabajos y muer
+          <lb ed="#S" n="32"/>te que se les ofresciesse por jesu christo crucificado.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e427">
+          <lb ed="#S" n="33"/>¶ Otra vez por las grandes tiranias y obras nefandas
+          <lb ed="#S" n="34"/>delos christianos malos: mataron los yndios otros dos
+          <pb ed="#S" n="66"/>
+          <lb ed="#S" n="1"/>frayles de sancto Domingo y vno de sant francisco de
+          <lb ed="#S" n="2"/>que yo soy testigo porque me escape dela mesma
+          muer<lb ed="#S" n="3" break="no"/>te por milangro diuino: donde auia harto que dezir pa
+          <lb ed="#S" n="4"/>ra espantar los hombres segun la grauedad y
+          horribi<lb ed="#S" n="5" break="no"/>lidad del caso. Pero por ser largo no lo quiero aqui de
+          <lb ed="#S" n="6"/>zir hasta su tiempo: y el dia del juyzio sera mas claro:
+          <lb ed="#S" n="7"/>quando dios tomare vengança de tan horribles y abo
+          <lb ed="#S" n="8"/>minables ynsultos como hazen enlas yndias los que tie
+          <lb ed="#S" n="9"/>nen nombre de christianos.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e456">
+          <lb ed="#S" n="10"/>¶ Otra vez enestas prouincias al cabo que dizen dela
+          <lb ed="#S" n="11"/>Codera: estaua vn pueblo cuyo señor se llamaua Higo
+          <lb ed="#S" n="12"/>roto: nombre propio dela persona / o comun delos seño
+          <lb ed="#S" n="13"/>res del. Este era tan bueno y su gente tan virtuosa: que
+          <lb ed="#S" n="14"/>quantos españoles por alli enlos nauios venian: halla
+          <lb ed="#S" n="15"/>uan reparo / comida / descanso y todo consuelo y
+          refri<lb ed="#S" n="16" break="no"/>gerio y muchos libro dela muerte que venian
+          huyen<lb ed="#S" n="17" break="no"/>do de otras prouincias: donde auian salteado y hecho
+          <lb ed="#S" n="18"/>muchas tiranias y males: muertos de hambre que los
+          <lb ed="#S" n="19"/>reparaua y embiaua saluos ala ysla delas perlas: donde
+          <lb ed="#S" n="20"/>auia poblacion de christianos quelos pudiera matar: sin
+          <lb ed="#S" n="21"/>que nadie los supiera y no lo hizo y finalmente
+          llama<lb ed="#S" n="22" break="no"/>uan todos los christianos a aquel pueblo de Higueroto
+          <lb ed="#S" n="23"/>el meson y casa de todos. Un malauenturado tirano
+          a<lb ed="#S" n="24" break="no"/>cordo de hazer alli salto: como estauan aquellas gentes
+          <lb ed="#S" n="25"/>tan seguras. Y fue alli con vn nauio y combido a mucha
+          <lb ed="#S" n="26"/>gente que entrasse enel nauio como solia entrar y fiarse en
+          <lb ed="#S" n="27"/>los otros. Entrados muchos hombres y mugeres y
+          ni<lb ed="#S" n="28" break="no"/>ños alço las velas y vinose ala ysla de sant Juan donde
+          <lb ed="#S" n="29"/>los vendio todos por esclauos: y yo llegue entonces ala
+          <lb ed="#S" n="30"/>dicha ysla y vide al dicho tirano y supe alli lo que auia he
+          <lb ed="#S" n="31"/>cho. Dexo destruydo todo aquel pueblo: y a todos los
+          <lb ed="#S" n="32"/>tiranos españoles que por aquella costa robauan y
+          sal<lb ed="#S" n="33" break="no"/>teauan: les peso y abominaron este tan espantoso hecho
+          <lb ed="#S" n="34"/>por perder el abrigo y meson que alli tenian como si es
+          <pb ed="#S" n="67"/>
+          <lb ed="#S" n="1"/>tuuieran ensus casas.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e517">
+          <lb ed="#S" n="2"/>¶ Digo que dexo de dezir immensas maldades y
+          ca<lb ed="#S" n="3" break="no"/>sos espantosos que desta manera por aquellas tierras
+          <lb ed="#S" n="4"/>se han hecho y oy eneste dia hazen.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e526">
+          <lb ed="#S" n="5"/>¶ Han traydo ala ysla española y ala de sant Juan de
+          <lb ed="#S" n="6"/>toda aquella costa questaua poblatissima: mas de dos cu
+          <lb ed="#S" n="7"/>entos de animas salteadas: que todas tambien las han
+          <lb ed="#S" n="8"/>muerto enlas dichas yslas echandolos alas minas y en
+          <lb ed="#S" n="9"/>los otros trabajos: allende delas multitudines que en
+          <lb ed="#S" n="10"/>ellas como arriba dezimos auia. Y es vna gran lastima
+          <lb ed="#S" n="11"/>y quebramiento de coraçon de ver aquella costa de
+          tier<lb ed="#S" n="12" break="no"/>ra felicissima toda desierta y despoblada.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e546">
+          <lb ed="#S" n="13"/>¶ Es esta aueriguada verdad que nunca traen nauio car
+          <lb ed="#S" n="14"/>gado de yndios: assi robados y salteados como he dicho:
+          <lb ed="#S" n="15"/>que no echan ala mar muertos la tercia parte delos que
+          me<lb ed="#S" n="16" break="no"/>ten dentro con los que matan por tomallos en sus tier
+          <lb ed="#S" n="17"/>ras. La causa es porque como para conseguir su fin es
+          <lb ed="#S" n="18"/>menester mucha gente para sacar mas dineros por mas
+          <lb ed="#S" n="19"/>esclauos: y no lleuan comida ni agua: sino poca por no
+          <lb ed="#S" n="20"/>gastar los tiranos que se llaman armadores: no basta a
+          <lb ed="#S" n="21"/>penas sino poco mas de para los españoles que van
+          en<lb ed="#S" n="22" break="no"/>el nauio para saltear: y assi falta para los tristes: por lo
+          <lb ed="#S" n="23"/>qual mueren de hambre y de sed: y el remedio es dar con
+          <lb ed="#S" n="24"/>ellos enla mar. Y en verdad que me dixo hombre dellos
+          <lb ed="#S" n="25"/>que desde las yslas delos Lucayos: donde se hizieron
+          <lb ed="#S" n="26"/>grandes estragos desta manera hasta la ysla española que
+          <lb ed="#S" n="27"/>son sessenta / o setenta leguas: fuera vn nauio sin aguja
+          <lb ed="#S" n="28"/>y sin carta de marear / guiandose solamente porel rastro
+          <lb ed="#S" n="29"/>delos yndios que quedauan enla mar echados del
+          na<lb ed="#S" n="30" break="no"/>uio muertos.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e589">
+          <lb ed="#S" n="31"/>¶ Despues desque los desembarcan enla ysla donde
+          <lb ed="#S" n="32"/>los lleuan a vender: es para quebrar el coraçon de qual
+          <lb ed="#S" n="33"/>quieron que alguna señal de piedad tuuiere: ver los des
+          <pb ed="#S" n="68"/>
+          <lb ed="#S" n="1"/>nudos y hambrientos: que se cayan de desmayados de
+          <lb ed="#S" n="2"/>hambre niños y viejos / hombres y mugeres. Despues
+          <lb ed="#S" n="3"/>como a vnos corderos los apartan padres de hijos y
+          <lb ed="#S" n="4"/>mugeres de maridos: haziendo manadas dellos de
+          a<lb ed="#S" n="5" break="no"/>diez y de a veynte personas y echan suertes sobrellos:
+          <lb ed="#S" n="6"/>para que lleuen sus partes los ynfelices armadores: que
+          <lb ed="#S" n="7"/>son los que ponen su parte de dineros para hazer el ar
+          <lb ed="#S" n="8"/>mada de dos y de tres nauios y para los tiranos saltea
+          <lb ed="#S" n="9"/>dores que van a tomallos y salteallos en sus casas. Y quan
+          <lb ed="#S" n="10"/>do cae la suerte enla manada donde ay algun viejo / o en
+          <lb ed="#S" n="11"/>fermo: dize el tirano a quien cabe: este viejo daldo al dia
+          <lb ed="#S" n="12"/>blo para que me lo days para que lo entierre? Este
+          en<lb ed="#S" n="13" break="no"/>fermo para que lo tengo de lleuar para curallo: Uea se
+          <lb ed="#S" n="14"/>aqui en que estiman los españoles alos yndios y si
+          cum<lb ed="#S" n="15" break="no"/>plen el precepto diuino del amor del proximo: donde pen
+          <lb ed="#S" n="16"/>de la ley y los prophetas.
+        </p>
+        <p xml:id="ogytbr-a1hkg7-d1e635">
+          <lb ed="#S" n="17"/>¶ La tirania que los españoles exercitan contra los
+          yn<lb ed="#S" n="18" break="no"/>dios enel sacar / o pescar delas perlas: es vna delas crue
+          <lb ed="#S" n="19"/>les y condenadas cosas que pueden ser enel mundo. No
+          <lb ed="#S" n="20"/>ay vida infernal y desesperada eñste siglo que se le
+          pue<lb ed="#S" n="21" break="no"/>da comparar: aunque la del sacar el oro enlas minas sea
+          <lb ed="#S" n="22"/>en su genero grauissima y pessima. Meten los enla mar
+          <lb ed="#S" n="23"/>en tres y en quatro y cinco braças de hondo desde la ma
+          <lb ed="#S" n="24"/>ñana hasta que se pone el sol: estan siempre debaxo del a
+          <lb ed="#S" n="25"/>gua nadando sin resuello arrancando las ostias donde
+          <lb ed="#S" n="26"/>se crian las perlas. Salen con vnas redezillas llenas da
+          <lb ed="#S" n="27"/>llas alo alto y arressollar: donde esta vn verdugo
+          espa<lb ed="#S" n="28" break="no"/>ñol en vna canoa / o barquillo: y si se tardan en descansar
+          <lb ed="#S" n="29"/>les da de puñadas y por los cabellos los echa al agua pa
+          <lb ed="#S" n="30"/>ra que tornen a pescar. La comida es pescado y del pes
+          <lb ed="#S" n="31"/>cado que tienen las perlas / y pan caçabi y algunos ma
+          <lb ed="#S" n="32"/>hiz (que son los panes de alla) el vno de muy poca sustan
+          <lb ed="#S" n="33"/>cia: y el otro muy trabajoso de hazer delos quales nun
+          <lb ed="#S" n="34"/>ca sehartan. Las camas que les dan ala noche es echa
+          <pb ed="#S" n="69"/>
+          <lb ed="#S" n="1"/>llos en vn cepo enel suelo: porque no seles vayan. Mu
+          <lb ed="#S" n="2"/>chas vezes çabullense enla mar a su pesqueria / o exerci
+          <lb ed="#S" n="3"/>cio delas perlas / y nunca tornan a salir (porque los
+          ti<lb ed="#S" n="4" break="no"/>burones y marraxos que son dos especies de bestias
+          <lb ed="#S" n="5"/>marinas crudelissimas que tragan vn hombre entero)
+          <lb ed="#S" n="6"/>los comen y matan. Uea se aqui si guardan los
+          españo<lb ed="#S" n="7" break="no"/>les: que enesta grangeria de perlas andan desta mane
+          <lb ed="#S" n="8"/>ra: los preceptos diuinos del amor de dios y del proxi
+          <lb ed="#S" n="9"/>mo / poniendo en peligro de muerte temporal y tambien
+          <lb ed="#S" n="10"/>del anima: porque mueren sin fee y sin sacramentos a sus
+          <lb ed="#S" n="11"/>proximos por su propia cudicia. Y lo otro dandoles tan
+          <lb ed="#S" n="12"/>horrible vida hasta que los acaban y consumen en
+          bre<lb ed="#S" n="13" break="no"/>ues dias. Porque biuir los hombres debaxo del agua sin
+          <lb ed="#S" n="14"/>ressuello es impossible mucho tiempo: señaladamente que
+          <lb ed="#S" n="15"/>la frialdad continua del agua los penetra. Y assi todos
+          <lb ed="#S" n="16"/>comunmente mueren de echar sangre porla boca: porel
+          <lb ed="#S" n="17"/>apretamiento del pecho que hazen por causa de estar tan
+          <lb ed="#S" n="18"/>to tiempo y tan contino sin ressuello: y de camaras que
+          <lb ed="#S" n="19"/>causa la frialdad. Conuierten se los cabellos siendo ellos
+          <lb ed="#S" n="20"/>de su natura negros: quemados como pelos de lobos
+          <lb ed="#S" n="21"/>marinos: y sale les por las espaldas salitre: que no pare
+          <lb ed="#S" n="22"/>cen sino monstros en naturaleza de hombres / o de otra
+          <lb ed="#S" n="23"/>especie. Eneste incomportable trabajo / o por mejor
+          de<lb ed="#S" n="24" break="no"/>zir exercicio del infierno: acabaron de consumir a todos
+          <lb ed="#S" n="25"/>los yndios lucayos que auia enlas yslas: quando caye
+          <lb ed="#S" n="26"/>ron los españoles enesta grangeria: y valia cada vno cin
+          <lb ed="#S" n="27"/>cuenta y cient castellanos y los vendian publicamente
+          <lb ed="#S" n="28"/>aun auiendo sido proybido por las justicias mesmas
+          <lb ed="#S" n="29"/>aunque injustas por otra parte / porque los Lucayos
+          <lb ed="#S" n="30"/>eran grandes nadadores. Han muerto tambien alli
+          <lb ed="#S" n="31"/>otros muchos sin numero de otras prouincias y
+          par<lb ed="#S" n="32" break="no"/>tes.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

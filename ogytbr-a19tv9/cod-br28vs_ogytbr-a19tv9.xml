@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 2</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 2</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="13"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a19tv9"><!-- c2 -->
+        <head xml:id="ogytbr-a19tv9-Hd1e109">Capítulo 2</head>
+        <head xml:id="ogytbr-a19tv9-Hd1e111" type="question-title">Los reinos que había en la isla Española</head>
+        <p xml:id="ogytbr-a19tv9-d1e114">
+          <lb ed="#S" n="33"/>Los reynos que auia enla ysla
+          <lb ed="#S" n="34"/>española.
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e121">
+          <pb ed="#S" n="14"/>
+          <lb ed="#S" n="1"/>Auia enesta ysla española cinco reynos muy
+          <lb ed="#S" n="2"/>grandes principales y cinco reyes muy po
+          <lb ed="#S" n="3"/>derosos: alos quales quasi obedecian todos
+          <lb ed="#S" n="4"/>los otros señores que eran sin numero: pues
+          <lb ed="#S" n="5"/>to que algunos señores de algunas apartadas prouin
+          <lb ed="#S" n="6"/>cias no reconocian superior dellos alguno. El vn reyno
+          <lb ed="#S" n="7"/>se llamaua Magua la vltima silaba aguda / que quiere de
+          <lb ed="#S" n="8"/>zir el reynodela vega. Esta vega es delas mas insignes
+          <lb ed="#S" n="9"/>y admirables cosas del mundo: porque dura ochenta
+          <lb ed="#S" n="10"/>leguas dela mar del Sur ala del norte. Tiene de ancho
+          <lb ed="#S" n="11"/>cinco leguas y ocho hasta diez: y sierras altissimas de
+          <lb ed="#S" n="12"/>vna parte y de otra. Entran enella sobre treynta mil ri
+          <lb ed="#S" n="13"/>os y arroyos entre los quales son los doze tan grandes/
+          <lb ed="#S" n="14"/>como Ebro y Duero y Guadalqueuir. Y todos los ri
+          <lb ed="#S" n="15"/>os que vienen dela vna sierra questa al poniente que son
+          <lb ed="#S" n="16"/>los veynte y veynte y cinco mil: son riquissimos de oro.
+          <lb ed="#S" n="17"/>Enla qual sierra / o sierras se contiene la prouincia de
+          <lb ed="#S" n="18"/>Cibao: donde se dizen las minas de cibao de donde sa
+          <lb ed="#S" n="19"/>le aquel señalado y subido en quilates oro que por aca tie
+          <lb ed="#S" n="20"/>ne gran fama. El rey y señor deste reyno se llamaua Gua
+          <lb ed="#S" n="21"/>rionex: tenia señores tan grandes por vassallos: que junta
+          <lb ed="#S" n="22"/>ua vno dellos diez y seys mil hombres de pelea para ser
+          <lb ed="#S" n="23"/>uir a Guarionex: y yo conosci a algunos dellos. Este
+          <lb ed="#S" n="24"/>rey guarionex era muy obediente y virtuoso y natural
+          <lb ed="#S" n="25"/>mente pacifico y deuoto alos reyes de Castilla: y dio ci
+          <lb ed="#S" n="26"/>ertos años su gente por su mandado cada persona que
+          te<lb ed="#S" n="27" break="no"/>nia casa: lo gueco de vn caxcauel lleno de oro: y despues
+          <lb ed="#S" n="28"/>no pudiendo henchir lo se lo cortaron por medio: y dio lle
+          <lb ed="#S" n="29"/>na aquella mitad porque los yndios de aquella ysla tenian
+          <lb ed="#S" n="30"/>muy poca / o ninguna industria de coger / o sacar el oro
+          <lb ed="#S" n="31"/>delas minas. Dezia y ofrescia se este Cacique a seruir al
+          <lb ed="#S" n="32"/>rey de castilla: con hazer vna labrança que llegasse desde la
+          <lb ed="#S" n="33"/>Ysabela que fue la primera poblacion delos christianos / has
+          <lb ed="#S" n="34"/>ta la ciudad de sancto domingo: que son grandes
+          cincu<pb ed="#S" n="15"/><lb ed="#S" n="1" break="no"/>enta leguas: porque no le pidiessen oro: porque dezia y con
+          <lb ed="#S" n="2"/>verdad que no lo sabian coger sus vassallos. La labrança
+          <lb ed="#S" n="3"/>que dezia que haria se yo que la podia hazer y con grande
+          a<lb ed="#S" n="4" break="no"/>legria y que valiera mas al rey cada año de tres
+          quen<lb ed="#S" n="5" break="no"/>tos de castellanos: y aun fuera tal que causara esta labrança
+          <lb ed="#S" n="6"/>auer enla ysla oy mas de cincuenta ciudades tan gran
+          <lb ed="#S" n="7"/>des como Seuilla.
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e216">
+          <lb ed="#S" n="8"/>¶ El pago que dieron a este Rey y señor tan bueno y tan
+          <lb ed="#S" n="9"/>grande fue deshonrrallo por la muger violandosela vn
+          <lb ed="#S" n="10"/>capitan mal christiano: el que pudiera aguardar tiempo y jun
+          <lb ed="#S" n="11"/>tar de su gente para vengarse: acordo de yrse y esconderse
+          <lb ed="#S" n="12"/>sola su persona y morir desterrado de su reyno y estado a
+          <lb ed="#S" n="13"/>vna prouincia que se dezia delos Ciguayos donde era vn
+          <lb ed="#S" n="14"/>gran señor su vassallo. Desde que lo hallaron menos los christia
+          <lb ed="#S" n="15"/>nos / no seles pudo encubrir: van y hazen guerra al señor
+          <lb ed="#S" n="16"/>que lo tenia. Donde hizieron grandes matanças hasta que en
+          <lb ed="#S" n="17"/>fin lo ouieron de hallar y prender / y preso con cadenas y
+          <lb ed="#S" n="18"/>grillos lo metieron en vna nao para traerlo a castilla. La
+          <lb ed="#S" n="19"/>qual se perdio enla mar y con el se ahogaron muchos christia
+          <lb ed="#S" n="20"/>nos y gran cantidad de oro: entre lo qual perecio el grano
+          <lb ed="#S" n="21"/>grande que era como vna hogaça y pesaua tres mil y
+          se<lb ed="#S" n="22" break="no"/>yscientos castellanos por hazer dios vengança de tan
+          <lb ed="#S" n="23"/>grandes sin justicias.
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e254">
+          <lb ed="#S" n="24"/>¶ El otro reyno se dezia del Marien donde agora es el
+          <lb ed="#S" n="25"/>puerto real al cabo dela vega hazia el norte y mas gran
+          <lb ed="#S" n="26"/>de que el reyno de portugal: aunque cierto harto mas felice y
+          <lb ed="#S" n="27"/>digno de ser poblado y de muchas y grandes sierras y mi
+          <lb ed="#S" n="28"/>nas de oro y cobre muy rico: cuyo rey se llamaua Guaca
+          <lb ed="#S" n="29"/>nagarj vltima aguda: debaxo del qual auia muchos y muy
+          <lb ed="#S" n="30"/>grandes señores / delos quales yo vide y conoci muchos: y
+          <lb ed="#S" n="31"/>ala tierra deste fue primero a parar el almirante viejo que des
+          <lb ed="#S" n="32"/>cubrio las yndias. Al qual recibio la primera vez el dicho
+          <lb ed="#S" n="33"/>guacanagarj quando descubrio la ysla con tanta hunanidad
+          <lb ed="#S" n="34"/>y charidad y a todos los christianos que con el yuan: y les
+          <pb ed="#S" n="16"/>
+          <lb ed="#S" n="1"/>hizo tan suaue y gracioso rescibimiento y socorro y
+          a<lb ed="#S" n="2" break="no"/>uiamiento (perdiendo se le alli aun la nao en que yua el
+          <lb ed="#S" n="3"/>almirante) que en su misma patria y de sus mismos
+          pa<lb ed="#S" n="4" break="no"/>dres no lo pudiera rescebir mejor. Esto se por relacion
+          <lb ed="#S" n="5"/>y palabras del mismo almirante. Este rey murio huyen
+          <lb ed="#S" n="6"/>do de las matanças y crueldades de los christianos des
+          <lb ed="#S" n="7"/>truydo y priuado de su estado por los montes perdido.
+          <lb ed="#S" n="8"/>Todos los otros señores subditos suyos murieron en
+          <lb ed="#S" n="9"/>la tirania y seruidumbre que abaxo sera dicha.
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e302">
+          <lb ed="#S" n="10"/>¶ El tercero reyno y señorio fue la Maguana: tierra tan
+          <lb ed="#S" n="11"/>bien admirable / sanissima y fertilissima donde agora se
+          <lb ed="#S" n="12"/>haze la mejor açucar de aquella ysla. El rey del se llamo
+          <lb ed="#S" n="13"/>Caonabo: este en esfuerço y estado y grauedad y
+          ceri<lb ed="#S" n="14" break="no"/>monias de su seruicio: excedio a todos los otros. A este
+          <lb ed="#S" n="15"/>prendieron con vna gran sutileza y maldad: estando seguro en
+          <lb ed="#S" n="16"/>su casa. Metieron lo despues en vn nauio para traello a cas
+          <lb ed="#S" n="17"/>tilla: y estando enel puerto seys nauios para se partir quiso di
+          <lb ed="#S" n="18"/>os mostrar ser aquella con las otras grande yniquidad y
+          <lb ed="#S" n="19"/>injusticia: y embio aquella noche vna tormenta que hundio
+          <lb ed="#S" n="20"/>todos los nauios y ahogo todos los christianos que
+          <lb ed="#S" n="21"/>enellos estauan: donde murio el dicho caonabo carga
+          <lb ed="#S" n="22"/>do de cadenas y grillos. Tenia este señor tres / o quatro
+          <lb ed="#S" n="23"/>hermanos muy varoniles y esforçados como el: vista la
+          <lb ed="#S" n="24"/>prision tan injusta de su hermano y señor y las destruy
+          <lb ed="#S" n="25"/>ciones y matanças que los christianos en los otros re
+          <lb ed="#S" n="26"/>ynos hazian: especialmente desque supieron que el rey
+          <lb ed="#S" n="27"/>su hermano era muerto: pusieron se en armas para yr a
+          <lb ed="#S" n="28"/>cometer y vengar se de los chrstianos: van los christia
+          <lb ed="#S" n="29"/>nos a ellos conciertos de cauallo (que es la mas perni
+          <lb ed="#S" n="30"/>ciosa arma que puede ser para entre yndios) y hazen tan
+          <lb ed="#S" n="31"/>tos estragos y matanças que assolaron y despoblaron
+          <lb ed="#S" n="32"/>la mitad de todo aquel reyno.
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e354">
+          <lb ed="#S" n="33"/>¶ El quarto reyno es que se llamo de Xaragua: este era
+          <lb ed="#S" n="34"/>como el meollo / o medula / o como la corte de toda aque
+          <pb ed="#S" n="17"/>
+          <lb ed="#S" n="1"/>lla yssa: excedia en la lengua y habla ser mas polida: en
+          <lb ed="#S" n="2"/>la policia y criança mas ordenada y compuesta: en la mu
+          <lb ed="#S" n="3"/>chedumbre de la nobleza y generosidad: porque auia mu
+          <lb ed="#S" n="4"/>chos y en gran cantidad señores y nobles: y en la
+          lin<lb ed="#S" n="5" break="no"/>deza y hermosura de toda la gente / a todos los otros.
+          <lb ed="#S" n="6"/>El rey y señor del se llamaua Behechio: tenia vna
+          her<lb ed="#S" n="7" break="no"/>mana que se llamaua Anacaona. Estos dos hermanos hi
+          <lb ed="#S" n="8"/>zieron grandes seruicios a los reyes de Castilla y
+          yn<lb ed="#S" n="9" break="no"/>mensos beneficios alos christianos / librandolos de mu
+          <lb ed="#S" n="10"/>chos peligros de muerte; y despues de muerto el rey Be
+          <lb ed="#S" n="11"/>hechio quedo enel reyno por señora Anacaona. Aqui
+          <lb ed="#S" n="12"/>llego vna vez el gouernador que gouernaua esta Ysla
+          <lb ed="#S" n="13"/>con sessenta de cauallo / y mas trezientos peones: que los
+          <lb ed="#S" n="14"/>de cauallo solos bastauan para assolar a toda la ysla y la
+          <lb ed="#S" n="15"/>tierra firme: y llegaronse mas de trezientos señores a
+          <lb ed="#S" n="16"/>su llamado seguros: delos quales hizo meter dentro de
+          <lb ed="#S" n="17"/>vna casa de paja muy grande los mas señores por enga
+          <lb ed="#S" n="18"/>ño: y metidos les mando poner fuego y los quemaron
+          <lb ed="#S" n="19"/>biuos. A todos los otros alancearon y metieron a espa
+          <lb ed="#S" n="20"/>da con infinita gente: y ala señora Anacaona por
+          haze<lb ed="#S" n="21" break="no"/>lle honrra ahorcaron. Y acaescia algunos christianos/
+          <lb ed="#S" n="22"/>o por piedad / o por cudicia tomar algunos niños para
+          <lb ed="#S" n="23"/>mamparallos no los matassen / y ponian los alas ancas
+          <lb ed="#S" n="24"/>delos cauallos: venia otro español por detras y passaua
+          <lb ed="#S" n="25"/>lo con su lança. Otro si estaua el niño enel suelo / le cor
+          <lb ed="#S" n="26"/>tauan las piernas conel espada. Alguna gente que
+          pu<lb ed="#S" n="27" break="no"/>do huyr desta tan inhumana crueldad: passaron se a vna
+          <lb ed="#S" n="28"/>Ysla pequeña que esta cerca de alli ocho leguas enla mar:
+          <lb ed="#S" n="29"/>y el dicho gouernador condeno a todos estos que alli se
+          <lb ed="#S" n="30"/>passaron que fuessen esclauos porque huyeron dela carniceria
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e428">
+          <lb ed="#S" n="31"/>¶ El quinto reyno se llamaua Higuey y señoreanalo
+          <lb ed="#S" n="32"/>vna reyna vieja que se llamo Higuanama. A esta ahorca
+          <lb ed="#S" n="33"/>ron y fueron infinitas las gentes que yo vide quemar
+          <lb ed="#S" n="34"/>biuas y despedaçar y atormentar por diuersas y nueuas
+          <pb ed="#S" n="18"/>
+          <lb ed="#S" n="1"/>maneras de muertes y tormentos y hazer esclauos todos
+          <lb ed="#S" n="2"/>los que a vida tomaron. Y porque son tantas las particu
+          <lb ed="#S" n="3"/>laridades que enestas matanças y perdiciones de aquellas gen
+          <lb ed="#S" n="4"/>tes ha auido: que en mucha escriptur a no podrian caber
+          <lb ed="#S" n="5"/>(porque en verdad que creo que por mucho que dixese no pue
+          <lb ed="#S" n="6"/>da explicar de mil partes vna) solo quiero enlo delas
+          <lb ed="#S" n="7"/>guerras suso dichas concluyrcon dezir y afirmar: que en
+          <lb ed="#S" n="8"/>dios ven mi consciencia que tengo por cierto que para
+          ha<lb ed="#S" n="9" break="no"/>zer todas las injusticias y maldades dichas y las otras
+          <lb ed="#S" n="10"/>que dexo y podria dezir: no dieron mas causa los yndios
+          <lb ed="#S" n="11"/>ni tuuieron mas culpa que podrian dar / o tener vn
+          con<lb ed="#S" n="12" break="no"/>uento de buenos y concertados religiosos: para roba
+          <lb ed="#S" n="13"/>llos y matallos y los que dela muerte quedassen biuos: po
+          <lb ed="#S" n="14"/>nerlos en perpetuo captiuerio y seruidumbre de escla
+          <lb ed="#S" n="15"/>uos. Y mas affirmo que hasta que todas las
+          muchedum<lb ed="#S" n="16" break="no"/>bres de gentes de aquella ysla fueron muertas y assoladas:
+          <lb ed="#S" n="17"/>que pueda yo creer y conjecturar / no cometieron contra
+          <lb ed="#S" n="18"/>los christianos vn solo pecado mortal que fuesse punible por
+          <lb ed="#S" n="19"/>hombres: y los que solamente son reseruados a dios como
+          <lb ed="#S" n="20"/>son los desseos de vengança / odio y rancor que podian te
+          <lb ed="#S" n="21"/>ner aquellas gentes contra tan capitales enemigos / como
+          <lb ed="#S" n="22"/>les fueron los christianos: estos creo que cayeron en muy
+          <lb ed="#S" n="23"/>pocas personas delos Yndios y eran poco mas impetuo
+          <lb ed="#S" n="24"/>sos y rigurosos: por la mucha experiencia que dellos ten
+          <lb ed="#S" n="25"/>go: que de niños / o muchachos de diez / o doze años.
+          <lb ed="#S" n="26"/>Y se por cierta y infallible sciencia: que los Yndios tuuie
+          <lb ed="#S" n="27"/>ron siempre justissima guerra contra los christianos: y
+          <lb ed="#S" n="28"/>los christianos vna ni ninguna nunca tuuieron justa con
+          <lb ed="#S" n="29"/>tra los Yndios: antes fueron todas diabolicas y injus
+          <lb ed="#S" n="30"/>tissimas y mucho mas que de ningun tyrano se puede de
+          <lb ed="#S" n="31"/>zir del mundo: y lo mismo affirmo de quantas han
+          he<lb ed="#S" n="32" break="no"/>cho en todas las Yndias.
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e511">
+          <lb ed="#S" n="33"/>¶ Despues de acabadas las guerras y muertes en ellas
+          <lb ed="#S" n="34"/>todos los hombres / quedando comunmente los
+          mance<pb ed="#S" n="19"/><lb ed="#S" n="1" break="no"/>bos y mugeres y niños: repartieron los entre si: dando
+          <lb ed="#S" n="2"/>a vno treynta / a otro quarenta / a otro ciento y
+          dozien<lb ed="#S" n="3" break="no"/>tos (segun la gracia que cada vno alcançaua conel tyrano
+          <lb ed="#S" n="4"/>mayor que dezian gouernador) Y assi repartidos a cada
+          <lb ed="#S" n="5"/>christiano dauanse los con esta color: que los enseñasse enlas
+          <lb ed="#S" n="6"/>cosas dela fee catholica: siendo comunmente todos ellos
+          <lb ed="#S" n="7"/>ydiotas y hombres crueles auarissimos y viciosos / ha
+          <lb ed="#S" n="8"/>ziendolos curas de animas. Y la cura / o cuydado que
+          de<lb ed="#S" n="9" break="no"/>llos tuuieron: fue embiar los hombres alas minas a sacar
+          <lb ed="#S" n="10"/>oro que es trabajo intolerabie: y las mugeres ponian en
+          <lb ed="#S" n="11"/>las estancias / que son granjas a cauar las labranças / y cul
+          <lb ed="#S" n="12"/>tiuar la tierra: trabajo para hombres muy fuertes y re
+          <lb ed="#S" n="13"/>zios. No dauan alos vnos ni alas otras de comer:
+          sino<lb ed="#S" n="14" break="no"/>yeruas y cosas que no tenian sustancia: secauaseles la
+          le<lb ed="#S" n="15" break="no"/>che delas tetas alas mugeres paridas: y assi murieron
+          <lb ed="#S" n="16"/>en breue todas las criaturas. Y por estar los maridos a
+          <lb ed="#S" n="17"/>partados que nunca vian alas mugeres / cesso entre ellos
+          <lb ed="#S" n="18"/>la generacion: murieron ellos enlas minas de trabajos
+          <lb ed="#S" n="19"/>y hambre: y ellas enlas estancias / o granjas delo mesmo
+          <lb ed="#S" n="20"/>y assi se acabaron tantas y tales multitudines de gentes
+          <lb ed="#S" n="21"/>de aquella ysla: y assi se pudiera auer acabado todas las del
+          <lb ed="#S" n="22"/>mundo. Dezir las cargas que les echauan de tres y
+          qua<lb ed="#S" n="23" break="no"/>tro arrobas: y los lleuauan ciento y dozientas leguas.
+          <lb ed="#S" n="24"/>Y los mesmos christianos se hazian lleuar en hamacas que son
+          <lb ed="#S" n="25"/>como redes / acuestas delos Yndios: porque siempre vsaron de
+          <lb ed="#S" n="26"/>llos como de bestias para cargas. Tenian mataduras enlos
+          <lb ed="#S" n="27"/>hombros y espaldas delas cargas como muy matadas besti
+          <lb ed="#S" n="28"/>as. Dezir assi mesmo los açotes / palos / bofetadas / puña
+          <lb ed="#S" n="29"/>das / maldiciones y otros mil geñros de tormentos que enlos
+          <lb ed="#S" n="30"/>trabajos les dauan: en verdad que en mucho tiempo ni papel
+          <lb ed="#S" n="31"/>no se pudiesse dezir y que fuesse para espantar los hombres
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e586">
+          <lb ed="#S" n="32"/>¶ Y es de notar que la perdicion destas yslas y tierras se co
+          <lb ed="#S" n="33"/>mençaron a perder y destruyr: desde que alla se supo la muer
+          <lb ed="#S" n="34"/>te dela serenissima reyna doña ysabel: que fue el año de mil
+          <pb ed="#S" n="20"/>
+          <lb ed="#S" n="1"/>y quinientos y quatro porque hasta entonces solo eñsta ysla se a
+          <lb ed="#S" n="2"/>uian destruydo algunas prouicias: por guerras injustas / pero
+          <lb ed="#S" n="3"/>no del todo. Y estas porla mayor parte y quasi todas sele encu
+          <lb ed="#S" n="4"/>brieron ala reyna. Porque la reyna que aya santa gloria tenia
+          <lb ed="#S" n="5"/>grandissimo cuydado y admirable zelo ala saluacion y pros
+          <lb ed="#S" n="6"/>peridad de aquellas gentes / como sabemos los que lo vimos
+          <lb ed="#S" n="7"/>y palpamos con nuestros ojos y manos / los exemplos desto.
+        </p>
+        <p xml:id="ogytbr-a19tv9-d1e613">
+          <lb ed="#S" n="8"/>¶ Deuese de notar otra regla enesto: que en todas las
+          <lb ed="#S" n="9"/>partes delas yndias / donde han ydo y passado christia
+          <lb ed="#S" n="10"/>nos: siempre hizieron enlos yndios todas las cruelda
+          <lb ed="#S" n="11"/>des suso dichas y matanças y tyranias y oppressiones
+          <lb ed="#S" n="12"/>abominables en aquellas innocentes gentes: y añidian
+          <lb ed="#S" n="13"/>muchas mas y mayores y mas nueuas maneras de tor
+          <lb ed="#S" n="14"/>mentos: y mas crueles siempre fueron / porque los dexa
+          <lb ed="#S" n="15"/>ua dios mas de golpe caer y derrocarse en reprouado
+          <lb ed="#S" n="16"/>juyzio / o sentimiento.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

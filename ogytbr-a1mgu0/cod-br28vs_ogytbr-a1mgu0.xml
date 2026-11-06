@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 18</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 18</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="78"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1mgu0"><!-- c18 -->
+        <head xml:id="ogytbr-a1mgu0-Hd1e109">Capítulo 18</head>
+        <head xml:id="ogytbr-a1mgu0-Hd1e111" type="question-title">Del río de la Plata</head>
+        <p xml:id="ogytbr-a1mgu0-d1e114">
+          <lb ed="#S" n="26"/>¶ Del rio dela Plata.
+        </p>
+        <p xml:id="ogytbr-a1mgu0-d1e119">
+          <lb ed="#S" n="27"/>Desde el año de mil y quinientos y veynte y
+          <lb ed="#S" n="28"/>dos / o veynte y tres han ydo al rio dela pla
+          <lb ed="#S" n="29"/>ta donde ay grandes reynos y prouincias y de
+          <lb ed="#S" n="30"/>gentes muy dispuestas y razonables: tres / o
+          <lb ed="#S" n="31"/>quatro vezes capitanes. En general
+          sabe<lb ed="#S" n="32" break="no"/>mos que han hecho muertes y daños / en particular como
+          <lb ed="#S" n="33"/>esta muy atrasmano delo que mas se tracta delas yndias:
+          <pb ed="#S" n="79"/>
+          <lb ed="#S" n="1"/>no sabemos cosas que dezir señaladas. Ninguna duda em
+          <lb ed="#S" n="2"/>pero tenemos que no ayan hecho y hagan oy las mesmas
+          <lb ed="#S" n="3"/>obras que enlas otras partes se han hecho y hazen. Porque
+          <lb ed="#S" n="4"/>son los mesmos españoles y entre ellos ay delos que se han
+          <lb ed="#S" n="5"/>hallado enlas otras: y porque van a ser ricos y grandes
+          se<lb ed="#S" n="6" break="no"/>ñores como los otros: y esto es impossible que pueda ser:
+          <lb ed="#S" n="7"/>sino con perdicion y matanças y robos y diminucion
+          de<lb ed="#S" n="8" break="no"/>los yndios segun la orden y via peruersas / que aquellos co
+          <lb ed="#S" n="9"/>mo los otros lleuaron.
+        </p>
+        <p xml:id="ogytbr-a1mgu0-d1e158">
+          <lb ed="#S" n="10"/>¶ Despues que lo dicho se escriuio: supimos muy con ves
+          <lb ed="#S" n="11"/>dad que han destruydo y despoblado grandes prouincias
+          <lb ed="#S" n="12"/>y reynos de aquella tierra: haziendo estrañas matanças y
+          <lb ed="#S" n="13"/>crueldades en aquellas desuenturadas gentes: con las qua
+          <lb ed="#S" n="14"/>les se han señalado conmo los otros y mas que otros: porque
+          <lb ed="#S" n="15"/>han tenido mas lugar por estar mas lexos de españa: y
+          <lb ed="#S" n="16"/>han biuido mas sin orden y justicia: aunque en todas las yn
+          <lb ed="#S" n="17"/>dias no la ouo como parece por todo lo arriba relatado
+        </p>
+        <p xml:id="ogytbr-a1mgu0-d1e179">
+          <lb ed="#S" n="18"/>¶ Entre otras infinitas se han leydo enel consejo delas yn
+          <lb ed="#S" n="19"/>dias: las que se diran abaxo. Un tirano gouernador dio
+          <lb ed="#S" n="20"/>mandamiento a cierta gente suya / que fuesse a ciertos
+          <lb ed="#S" n="21"/>pueblos de yndios y que sino les diessen de comer los
+          <lb ed="#S" n="22"/>matassen a todos. Fueron con esta auctoridad: y porque
+          <lb ed="#S" n="23"/>los yndios como a enemigos suyos no se lo quisieron
+          <lb ed="#S" n="24"/>dar / mas por miedo de vellos y por huyllos que por
+          fal<lb ed="#S" n="25" break="no"/>ta de liberalidad: metieron a espada sobre cinco mil
+          a<lb ed="#S" n="26" break="no"/>nimas. ¶ Jtem vinieron se a poner en sus manos y a
+          <lb ed="#S" n="27"/>ofrescerse a su seruicio cierto numero de gente de paz/
+          <lb ed="#S" n="28"/>que por ventura ellos embiaron a llamar: y porque / o no vinie
+          <lb ed="#S" n="29"/>ron tan presto / o porque como suelen y es coslumbre dellos
+          <lb ed="#S" n="30"/>vulgada: quisieron enellos su horrible miedo y
+          espan<lb ed="#S" n="31" break="no"/>to arraygar: mando el gouernador quelos entregassen
+          <lb ed="#S" n="32"/>a todos en manos de otros yndios que aquellos tenian por
+          <lb ed="#S" n="33"/>sus enemigos. Los quales llorando y clamando rogauan
+          <lb ed="#S" n="34"/>que los matassen ellos / y no los diessen a sus enemigos.
+          <pb ed="#S" n="80"/>
+          <lb ed="#S" n="1"/>y no queriendo salir dela casa donde estauan: alli los hi
+          <lb ed="#S" n="2"/>zieron pedaços: clamando y diziendo: venimos a
+          ser<lb ed="#S" n="3" break="no"/>uiros de paz y matays nos? nuestra sangre quede por
+          <lb ed="#S" n="4"/>estas paredes en testimonio de nuestra injusta muerte
+          <lb ed="#S" n="5"/>y vuestra crueldad. Obra fue esta cierto señalada: y di
+          <lb ed="#S" n="6"/>na de considerar y mucho mas de lamentar.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

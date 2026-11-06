@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Argumento</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Argumento</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="2"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a150o9"><!-- arg -->
+        <head xml:id="ogytbr-a150o9-Hd1e109">Argumento</head>
+        <head xml:id="ogytbr-a150o9-Hd1e111" type="question-title">Argumento del presente epítome</head>
+        <p xml:id="ogytbr-a150o9-d1e114">
+          <pb ed="#S" n="2"/>
+          <lb ed="#S" n="1"/>¶ Argumento del presen
+          <lb ed="#S" n="2"/>te Epitome.
+        </p>
+        <p xml:id="ogytbr-a150o9-d1e123">
+          <lb ed="#S" n="3"/>Todas las cosas que
+          <lb ed="#S" n="4"/>han acaescido enlas yndias desde su
+          <lb ed="#S" n="5"/>marauilloso descubrimiento y del prin
+          <lb ed="#S" n="6"/>cipio que a ellas fueron españoles para
+          <lb ed="#S" n="7"/>estar tiempo alguno: y despues enel
+          <lb ed="#S" n="8"/>processo adelante hasta los dias de agora: han sido tan
+          <lb ed="#S" n="9"/>admirables y tan no creybles en todo genero a quien
+          <lb ed="#S" n="10"/>no las vido: que parece auer añublado y puesto silencio
+          <lb ed="#S" n="11"/>y bastantes a poner oluido a todas quantas por
+          haza<lb ed="#S" n="12" break="no"/>ñosas que fuessen enlos siglos passados se vieron y
+          o<lb ed="#S" n="13" break="no"/>yeron enel mundo. Entre estas son las matanças y estra
+          <lb ed="#S" n="14"/>gos de gentes innocentes: y despoblaciones de pueblos
+          <lb ed="#S" n="15"/>prouincias y reynos que enellas se han perpetrado:
+          <lb ed="#S" n="16"/>y que todas las otras do de menor espanto. Las vnas
+          <lb ed="#S" n="17"/>y las otras refiriendo a diuersas personas que no las
+          <lb ed="#S" n="18"/>sabian / el obispo don fray Bartholome delas casas / o
+          <lb ed="#S" n="19"/>casaus la vez que vino ala corte despues de frayle a
+          in<lb ed="#S" n="20" break="no"/>formar al Emperador nuestro señor (como quien todas
+          <lb ed="#S" n="21"/>bien visto auia) y causando alos oyentes con la
+          relaci<lb ed="#S" n="22" break="no"/>on dellas vna manera de extasi y suspension de animos:
+          <lb ed="#S" n="23"/>fue rogado y importunado que destas postreras pusies
+          <lb ed="#S" n="24"/>se algunas con breuedad por escripto. Ello hizo: y vi
+          <lb ed="#S" n="25"/>endo algunos años despues muchos insensibles
+          hom<lb ed="#S" n="26" break="no"/>bres que la cobdicia y ambicion ha hecho degenerar
+          <lb ed="#S" n="27"/>del ser hombres: y sus facinorosas obras traydo en
+          re<lb ed="#S" n="28" break="no"/>probado sentido: que no contentos con las trayciones
+          <pb ed="#S" n="3"/>
+          <lb ed="#S" n="1"/>y maldades que han cometido: despoblado con exqui
+          <lb ed="#S" n="2"/>sitas especies de crueldad aquel orbe: importunauan al
+          <lb ed="#S" n="3"/>rey por licencia y auctoridad para tornarlas a cometer
+          <lb ed="#S" n="4"/>y otra peores (si peores pudiessen ser) acordo
+          presen<lb ed="#S" n="5" break="no"/>tar esta summa delo que cerca desto escriui o alprincipe
+          <lb ed="#S" n="6"/>nuestro señor: para que su alteza fuesse en que se les
+          de<lb ed="#S" n="7" break="no"/>negasse. Y pareciole cosa conueniente ponella en molde:
+          <lb ed="#S" n="8"/>porque su alteza la leyesse con mas facilidad. Y esta es
+          <lb ed="#S" n="9"/>la razon del siguente Epitome / o breuissima relacion
+        </p>
+        <p xml:id="ogytbr-a150o9-d1e204">
+          <lb ed="#S" n="10"/>¶ Fin del argu
+        </p>
+        <p xml:id="ogytbr-a150o9-d1e210">
+          <lb ed="#S" n="11"/>mento
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

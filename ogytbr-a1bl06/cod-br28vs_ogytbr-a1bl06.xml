@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 4</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 4</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="21"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1bl06"><!-- c4 -->
+        <head xml:id="ogytbr-a1bl06-Hd1e109">Capítulo 4</head>
+        <head xml:id="ogytbr-a1bl06-Hd1e111" type="question-title">De la isla de Cuba</head>
+        <p xml:id="ogytbr-a1bl06-d1e114">
+          <pb ed="#S" n="21"/>
+          <lb ed="#S" n="1"/>Dela ysla de Cuba.
+        </p>
+        <p xml:id="ogytbr-a1bl06-d1e121">
+          <lb ed="#S" n="2"/>El año de mil y quinientos y onze passaron
+          <lb ed="#S" n="3"/>ala Ysla de Cuba que es como dixe tan luenga
+          <lb ed="#S" n="4"/>como de Valladolid a Roma (donde auia gran
+          <lb ed="#S" n="5"/>des prouincias de gentes) començaron y acaba
+          <lb ed="#S" n="6"/>ron delas maneras suso dichas y mucho mas y mas cru
+          <lb ed="#S" n="7"/>elmente. Aqui acaescieron cosas muy señaladas. Un caci
+          <lb ed="#S" n="8"/>que y señor muy principal que por nombre tenia Hatuey que se
+          <lb ed="#S" n="9"/>auia passado dela ysla Española a Cuba con mucha de su
+          <lb ed="#S" n="10"/>gente por huyr delas calamidades y inhumanas obras
+          <lb ed="#S" n="11"/>delos christianos: y estando en aquella ysla de Cuba / y dando
+          <lb ed="#S" n="12"/>le nueuas ciertos Yndios / que passauan a ella los christianos:
+          <lb ed="#S" n="13"/>ayunto mucha / o toda su gente / y dixoles: ya sabeys co
+          <lb ed="#S" n="14"/>mo se dize que los christianos passan aca: y teneys
+          experien<lb ed="#S" n="15" break="no"/>cia quales han parado alos señores fulano y fulano y ful.
+          <lb ed="#S" n="16"/>y aquallas gentes de Hayti (ques la espanola) lo mesmo
+          <lb ed="#S" n="17"/>vienen a hazer aca: sabeys quiça porque lo hazen? dixeron no
+          <lb ed="#S" n="18"/>sino porque son de su natura crueles y malos. Dize el no
+          <lb ed="#S" n="19"/>lo hazen por solo esso: sino porque tienen vn dios a quien
+          <lb ed="#S" n="20"/>ellos adoran y quieren mucho y por auello de nosotros pa
+          <lb ed="#S" n="21"/>ralo adorar nos trabajan de sojuzgar y nos matan. Te
+          <lb ed="#S" n="22"/>nia cabe si vna cestilla llena de oro en joyas: y dixo veys
+          <lb ed="#S" n="23"/>aqui el dios delos christianos hagamos le si os parece A
+          <lb ed="#S" n="24"/>reytos (que son bayles y danças) y quiça le agradaremos:
+          <lb ed="#S" n="25"/>y les mandara que no nos hagan mal. Dixeron todos a bo
+          <lb ed="#S" n="26"/>zes bien es bien es. Baylaron le delante hasta que todos
+          <lb ed="#S" n="27"/>se cansaron. Y despues dize el señor Hatuey: mira como
+          <lb ed="#S" n="28"/>quiera que sea si lo guardamos para sacar nos lo: alfin
+          <lb ed="#S" n="29"/>nos han de matar: echemos lo eneste rio. Todos votaron
+          <lb ed="#S" n="30"/>que assi se hiziesse y assi lo echaron en vn rio grande que
+          <lb ed="#S" n="31"/>alli estaua.
+        </p>
+        <p xml:id="ogytbr-a1bl06-d1e189">
+          <pb ed="#S" n="22"/>
+          <lb ed="#S" n="1"/>¶ Este cacique y que señor anduuo siempre huyendo delos
+          <lb ed="#S" n="2"/>christianos desde que llegaron a aquella ysla de Cuba como qui
+          <lb ed="#S" n="3"/>en los conoscia: y defendiase quando los topaua / y
+          al<lb ed="#S" n="4" break="no"/>fin lo prendieron. Y solo porque huya de gente tan iniqua
+          <lb ed="#S" n="5"/>y cruel: y se defendia de quien lo queria matar y oppri
+          <lb ed="#S" n="6"/>mir hasta la muerte a si y a toda su gente y generacion:
+          <lb ed="#S" n="7"/>lo ouieron biuo de quemar. Atado al palo deziale vn reli
+          <lb ed="#S" n="8"/>gioso de sant francisco: sancto varon que alli estaua / algu
+          <lb ed="#S" n="9"/>nas cosas de Dios v de nuestra fee: el qual nunca las auia
+          <lb ed="#S" n="10"/>jamas oydo: lo que podia bastar aquel poquillo tiempo que
+          <lb ed="#S" n="11"/>los verdugos le dauan: y que si queria creer aquello / que le
+          <lb ed="#S" n="12"/>dezia que yria al cielo: donde auia gloria y eterno descan
+          <lb ed="#S" n="13"/>so: y sino que auia de yr al infierno a padecer perpetuos
+          <lb ed="#S" n="14"/>tormentos y penas. El pensando vn poco / pregunto al
+          <lb ed="#S" n="15"/>religioso si yuan christianos al cielo. El religioso le respon
+          <lb ed="#S" n="16"/>dio que si: pero que yuan los que eran buenos. Dixo luego
+          <lb ed="#S" n="17"/>el cacique sin mas pensar: que no queria el yr alla: sino al
+          <lb ed="#S" n="18"/>infierno por no estar donde estuuiessen y por no ver tan
+          <lb ed="#S" n="19"/>cruel gente. Esta es la fama y honrra que dios y nuestra fee ha
+          <lb ed="#S" n="20"/>ganado con los christianos que han ydo alas yndias.
+        </p>
+        <p xml:id="ogytbr-a1bl06-d1e238">
+          <lb ed="#S" n="21"/>¶ Una vez saliendo nos a recebir con mantenimientos
+          <lb ed="#S" n="22"/>y regalos diez leguas de vn gran pueblo: y llegados alla
+          <lb ed="#S" n="23"/>nos dieron gran cantidad de pescado y pan y comida con
+          <lb ed="#S" n="24"/>todo lo que mas pndieron: subitamente se les reuistio el
+          <lb ed="#S" n="25"/>diablo alos christianos: y meten a cuchillo en mi presencia
+          <lb ed="#S" n="26"/>(sin motiuo ni causa que tuuiessen) mas de tres mil animas
+          <lb ed="#S" n="27"/>que estauan sentados delante de nosotros hombres y mu
+          <lb ed="#S" n="28"/>geres y niños. Alli vide tan grandes crueldades que nun
+          <lb ed="#S" n="29"/>ca los biuos tal vieron / ni pensaron ver.
+        </p>
+        <p xml:id="ogytbr-a1bl06-d1e260">
+          <lb ed="#S" n="30"/>¶ Otra vez desde a pocos dias embie yo mensajeros
+          <lb ed="#S" n="31"/>assegurando que no temiessen a todos los señores dela pro
+          <lb ed="#S" n="32"/>uincia dela Hauana: porque tenian por oydas de mi
+          cre<lb ed="#S" n="33" break="no"/>dito: que no se ausentassen: sino que nos saliessen a recebir que
+          <lb ed="#S" n="34"/>no se les haria mal ninguno: porque delas matanças passa
+          <pb ed="#S" n="23"/>
+          <lb ed="#S" n="1"/>das estaua toda la tierra assombrada: y esto hize con parecer
+          <lb ed="#S" n="2"/>del capitan: y llegados ala prouincia / salieron nos a recebir
+          <lb ed="#S" n="3"/>veynte y vn señores y caciques: y luego los prendio el capi
+          <lb ed="#S" n="4"/>tan quebrantando el seguro que yo les auia dado / y los queria
+          <lb ed="#S" n="5"/>quemar biuos otro dia: diziendo que era bien porque aquellos
+          se<lb ed="#S" n="6" break="no"/>ñores algun tiempo auian de hazer algun mal. Uideme en muy
+          <lb ed="#S" n="7"/>gran trabajo qui tallos dela hoguera: pero alfin se escaparon.
+        </p>
+        <p xml:id="ogytbr-a1bl06-d1e291">
+          <lb ed="#S" n="8"/>¶ Despues de que todos los yndios dela tierra desta ysla
+          <lb ed="#S" n="9"/>fueron puestos enla seruidumbre y calamidad delos dela
+          <lb ed="#S" n="10"/>espanola: viendose morir y perecer sin remedio todos/
+          <lb ed="#S" n="11"/>començaron vnos a huyr alos montes: otros a ahorcar
+          <lb ed="#S" n="12"/>se de desesperados: y ahorcauanse maridos y mugeres
+          <lb ed="#S" n="13"/>y consigo ahorcauan los hijos: y por las crueldades de
+          <lb ed="#S" n="14"/>vn espanol muy tirano (que yo conoci) se ahorcaron mas de
+          <lb ed="#S" n="15"/>dozientos vndios. Perecio desta manera infinita gente.
+        </p>
+        <p xml:id="ogytbr-a1bl06-d1e311">
+          <lb ed="#S" n="16"/>¶ Official del rey ouo enesta ysla que le dieron de
+          repar<lb ed="#S" n="17" break="no"/>timiento trezientos yndios: y acabo de tres meses auia
+          <lb ed="#S" n="18"/>muerto enlos trabajos delas minas los dozientos y setenta / que
+          <lb ed="#S" n="19"/>no le quedaron de todos sino treynta que fue eldiezmo. Despu
+          <lb ed="#S" n="20"/>es le dieron otros tantos y mas y tambien los mato y dauan le y
+          <lb ed="#S" n="21"/>mas mataua hasta que se murio y el diablo le lleuo el alma
+        </p>
+        <p xml:id="ogytbr-a1bl06-d1e327">
+          <lb ed="#S" n="22"/>¶ En tres / o quatro meses estando yo presente:
+          murie<lb ed="#S" n="23" break="no"/>ron de hambre por lleualles los padres y las madres alas
+          <lb ed="#S" n="24"/>minas: mas de siete mil ninos. Otras cosas vide espantables
+        </p>
+        <p xml:id="ogytbr-a1bl06-d1e336">
+          <lb ed="#S" n="25"/>¶ Despues acordaron de yr a montear los yndios que estauan
+          <lb ed="#S" n="26"/>por los montes: donde hizieron estragos admirables: y assi
+          <lb ed="#S" n="27"/>assolaron y despoblaron toda aquella ysla / la qual vimos
+          ago<lb ed="#S" n="28" break="no"/>ra poco ha y es vna gran lastima y compassion verla/
+          <lb ed="#S" n="29"/>yermada y hecha toda vna soledad.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Post scripto</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Post scripto</title>
+          <date when="2026-11-06">Nov 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="cod-br28vs">Seville, 1552</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="98"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="ogytbr-a1quls"><!-- ps -->
+        <head xml:id="ogytbr-a1quls-Hd1e109">Post scripto</head>
+        <p xml:id="ogytbr-a1quls-d1e111">
+          <pb ed="#S" n="98"/>
+          <lb ed="#S" n="1"/>¶ Despues de escripto lo suso dicho fueron publicadas
+          <lb ed="#S" n="2"/>ciertas leyes y ordenanças que su Magestad por aquel
+          <lb ed="#S" n="3"/>tiempo hizo enla ciudad de Barcelona año de mil y
+          qui<lb ed="#S" n="4" break="no"/>nientos y quarenta y dos / porel mes de nobiembre: en
+          <lb ed="#S" n="5"/>la nilla de Madrid el año siguiente. Por las quales se
+          <lb ed="#S" n="6"/>puso la orden que por estonces parecio conuenir: para
+          <lb ed="#S" n="7"/>que cessassen tantas maldades y peccados que contra
+          <lb ed="#S" n="8"/>dios y los proximos y en total acabamiento y
+          perdi<lb ed="#S" n="9" break="no"/>cion de aquel orbe conuenia. Hizo las dichas leyes su
+          <lb ed="#S" n="10"/>Magestad despues de muchos ayuntamientos de per
+          <lb ed="#S" n="11"/>sonas de gran autoridad: letras y consciencia y
+          dispu<lb ed="#S" n="12" break="no"/>tas y conferencias enla villa de Ualladolid. Y finalmen
+          <lb ed="#S" n="13"/>te con acuerdo y parecer de todos los mas: que dieron
+          <lb ed="#S" n="14"/>por escripto sus votos y mas cercanos se hallaron delas
+          <lb ed="#S" n="15"/>reglas dela ley de jesu christo: como verdaderos christianos / y tan
+          <lb ed="#S" n="16"/>bien libres dela corrupcion y ensuziamiento delos the
+          <lb ed="#S" n="17"/>soros robados delas yndias. Los quales ensuziaron
+          <lb ed="#S" n="18"/>las manos y mas las animas de muchos que entonces
+          <lb ed="#S" n="19"/>las mandauan: de donde procedio la ceguedad suya: pa
+          <lb ed="#S" n="20"/>ra que las destruyessen sin tener escrupulo alguno dello.
+          <lb ed="#S" n="21"/>Publicadas estas leyes: hizieron los hazedores delos ti
+          <lb ed="#S" n="22"/>ranos que entonces estauan enla corte: muchos treslados de
+          <lb ed="#S" n="23"/>llas (como a todos les pesaua porque parecia que se les
+          <lb ed="#S" n="24"/>cerrauan las puertas de participar lo robado y tirani
+          <lb ed="#S" n="25"/>zado) y embiaron los a diuersas partes delas yndias.
+          <lb ed="#S" n="26"/>Los que alla tenian cargo delas robar / acabar y consumir
+          <lb ed="#S" n="27"/>con sus tiranias: como nunca tuuieron jamas orden:
+          <lb ed="#S" n="28"/>sino toda la deshorden que pudiera poner lucifer:
+          quan<lb ed="#S" n="29" break="no"/>do vieron los treslados antes que fuessen los juezes nue
+          <lb ed="#S" n="30"/>uos que los auian de executar: conosciendo (alo que se
+          <lb ed="#S" n="31"/>dize y se cree) delos que aca hasta entonces los auian en
+          <lb ed="#S" n="32"/>sus peccados y violencias sustentado: que lo deuian ha
+          <lb ed="#S" n="33"/>zer: alborotaron se de tal manera que quando fueron los
+          <lb ed="#S" n="34"/>buenos juezes alas executar: acordaron de (como auian
+          <pb ed="#S" n="99"/>
+          <lb ed="#S" n="1"/>perdido a Dios el amory temor) perder la verguança y
+          <lb ed="#S" n="2"/>obediencia a su rey. Y assi acordaron de tomar por renon
+          <lb ed="#S" n="3"/>bre traydores: siendo crudelissimos y desenfrenados ti
+          <lb ed="#S" n="4"/>ranos. Señaladamente enlos reynos del Peru: donde
+          <lb ed="#S" n="5"/>oy que estamos enel año de mil y quinientos y quaren
+          <lb ed="#S" n="6"/>ta y seys / se cometen tan horribles y espantables y
+          ne<lb ed="#S" n="7" break="no"/>pharias obras: quales nunca se hizieron / ni enlas
+          yn<lb ed="#S" n="8" break="no"/>dias ni enel mundo / no solo enlos yndios: los quales
+          <lb ed="#S" n="9"/>ya todos / o quasi todos los tienen muertos: y aquellas
+          <lb ed="#S" n="10"/>tierras dellos despobladas: pero ensi mesmos vnos a o
+          <lb ed="#S" n="11"/>tros con justo juyzio de Dios: que pues no ha auido jus
+          <lb ed="#S" n="12"/>ticia del rey que los castigue: viniesse del cielo: permiti
+          <lb ed="#S" n="13"/>endo que vnos fuessen de otros verdugos. Conel fauor
+          <lb ed="#S" n="14"/>de aquel leuantamiento de aquellos: en todas las otras
+          <lb ed="#S" n="15"/>partes de aquel mundo / no han querido cumplir las le
+          <lb ed="#S" n="16"/>yes: y con color de suplicar dellas: estan tan alçados
+          co<lb ed="#S" n="17" break="no"/>mo los otros. Porque se les haze de mal / dexar los esta
+          <lb ed="#S" n="18"/>dos y haziendas vsurpadas que tienen: y abrir mano
+          <lb ed="#S" n="19"/>delos yndios que tienen en perpetuo captiuerio.
+          Don<lb ed="#S" n="20" break="no"/>de han cessado de matar con espadas de presto: matan
+          <lb ed="#S" n="21"/>los con seruicios personales: y otras vexaciones ynjus
+          <lb ed="#S" n="22"/>tas y yntolerables su poco a poco. Y hasta agora no es
+          <lb ed="#S" n="23"/>poderoso el rey para lo estoruar / porque todos chicos
+          <lb ed="#S" n="24"/>y grandes andan a robar: vnos mas / otros menos. Unos
+          <lb ed="#S" n="25"/>publica y abierta / otros secreta y paliadamente. Y con
+          <lb ed="#S" n="26"/>color de que siruen al rey / deshonrran a Dios: y roban
+          <lb ed="#S" n="27"/>y destruyen al Rey.
+        </p>
+        <p xml:id="ogytbr-a1quls-d1e250">
+          <lb ed="#S" n="28"/>¶ Fue impressa la presente
+          o<lb ed="#S" n="29" break="no"/>bra enla muy noble y muy leal ciudad de Seuilla
+          <lb ed="#S" n="30"/>en casa de Sebastian Trugillo impressor de
+        </p>
+        <p xml:id="ogytbr-a1quls-d1e259">
+          <lb ed="#S" n="31"/>libros. A nuestra señora de Gracia.
+        </p>
+        <p xml:id="ogytbr-a1quls-d1e264">
+          <lb ed="#S" n="32"/>Año de. M. D. Lij.
+        </p>
+        <!-- 100 is blank page no text-->
+      </div>
+    </body>
+  </text>
+</TEI>
